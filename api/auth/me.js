@@ -1,5 +1,7 @@
 import { requireSession } from '../../lib/session.js';
 
-export default async function handler(request) {
-  return Response.json({ authenticated: requireSession(request) });
-}
+export default {
+  async fetch(request) {
+    return Response.json({ authenticated: requireSession(request) });
+  }
+};

@@ -8,25 +8,27 @@ function safeEqual(a, b) {
   return crypto.timingSafeEqual(aHash, bHash);
 }
 
-export default async function handler(request) {
-  if (request.method !== 'POST') {
-    return Response.json({ error: 'Método no permitido' }, { status: 405 });
+export default {
+  async fetch(request) {
+    if (request.method !== 'POST') {
+      return Response.json({ error: 'Método no permitido' }, { status: 405 });
+    }
+
+    const adminPassword = process.env.ADMIN_PASSWORD;
+    if (!adminPassword) {
+      return Response.json({ error: 'ADMIN_PASSWORD no configurado en el servidor' }, { status: 500 });
+    }
+
+    const { password } = await request.json().catch(() => ({}));
+
+    if (!password || !safeEqual(password, adminPassword)) {
+      await new Promise(r => setTimeout(r, 400)); // slow down brute-force attempts
+      return Response.json({ error: 'Contraseña incorrecta' }, { status: 401 });
+    }
+
+    return Response.json({ ok: true }, {
+      status: 200,
+      headers: { 'Set-Cookie': createSessionCookie() }
+    });
   }
-
-  const adminPassword = process.env.ADMIN_PASSWORD;
-  if (!adminPassword) {
-    return Response.json({ error: 'ADMIN_PASSWORD no configurado en el servidor' }, { status: 500 });
-  }
-
-  const { password } = await request.json().catch(() => ({}));
-
-  if (!password || !safeEqual(password, adminPassword)) {
-    await new Promise(r => setTimeout(r, 400)); // slow down brute-force attempts
-    return Response.json({ error: 'Contraseña incorrecta' }, { status: 401 });
-  }
-
-  return Response.json({ ok: true }, {
-    status: 200,
-    headers: { 'Set-Cookie': createSessionCookie() }
-  });
-}
+};
