@@ -64,22 +64,7 @@ async function logout() {
   location.reload();
 }
 
-async function checkSession() {
-  try {
-    const res = await fetch('/api/auth/me');
-    const data = await res.json();
-    if (data.authenticated) {
-      showPanel();
-      await cargarCatalogo();
-    }
-  } catch {
-    // Ignore — user just sees the login screen.
-  }
-}
-
 window.addEventListener('DOMContentLoaded', () => {
-  checkSession();
-
   $('btn-login').addEventListener('click', login);
   $('btn-logout').addEventListener('click', logout);
   $('token-input').addEventListener('keydown', e => {
