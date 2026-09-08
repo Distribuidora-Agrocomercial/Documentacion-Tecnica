@@ -99,6 +99,19 @@ body {
   line-height: 1;
 }
 
+.admin-link {
+  margin-left: 12px;
+  font-size: 12px;
+  color: #7a9a80;
+  text-decoration: none;
+  border-bottom: 1px solid transparent;
+}
+
+.admin-link:hover {
+  color: var(--c-green);
+  border-bottom-color: var(--c-green);
+}
+
 .doc-label {
   font-size: 12px;
   color: #7a9a80;
@@ -428,16 +441,6 @@ body {
   color: #7a9a80;
 }
 
-.site-footer .admin-link {
-  color: #7a9a80;
-  text-decoration: none;
-  border-bottom: 1px solid transparent;
-}
-
-.site-footer .admin-link:hover {
-  color: var(--c-green);
-  border-bottom-color: var(--c-green);
-}
 
 /* ─── UTILS ───────────────────────────────────────────────── */
 .hidden { display: none !important; }
@@ -448,6 +451,7 @@ body {
   .main         { padding: 20px 16px 40px; }
   .brand-name   { font-size: 18px; }
   .doc-count    { font-size: 22px; }
+  .admin-link   { margin-left: 8px; }
   #buscar       { padding: 12px 14px 12px 42px; }
   .search-hint  { display: none; }
   .grid         { grid-template-columns: 1fr; }
