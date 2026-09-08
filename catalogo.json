@@ -1,1496 +1,1502 @@
 [
-    {
-        "producto":  "Acrobat MZ 69 WP",
-        "tipo":  "hoja",
-        "nombre":  "MSDS.ACROBAT.MZ.69.WP.PDF",
-        "url":  "/uploads/MSDS.ACROBAT.MZ.69.WP.PDF"
-    },
-    {
-        "producto":  "Acrozell 69 WP",
-        "tipo":  "hoja",
-        "nombre":  "MSDS.ACROZELL.69.WP.pdf",
-        "url":  "/uploads/MSDS.ACROZELL.69.WP.pdf"
-    },
-    {
-        "producto":  "Actara 25 WG",
-        "tipo":  "hoja",
-        "nombre":  "MSDS.ACTARA.25.WG.pdf",
-        "url":  "/uploads/MSDS.ACTARA.25.WG.pdf"
-    },
-    {
-        "producto":  "Actellic 50 EC",
-        "tipo":  "hoja",
-        "nombre":  "MSDS.ACTELLIC.50.EC.pdf",
-        "url":  "/uploads/MSDS.ACTELLIC.50.EC.pdf"
-    },
-    {
-        "producto":  "Amistar 50 WG",
-        "tipo":  "hoja",
-        "nombre":  "MSDS.AMISTAR.50.WG.pdf",
-        "url":  "/uploads/MSDS.AMISTAR.50.WG.pdf"
-    },
-    {
-        "producto":  "Armeval 48 WP",
-        "tipo":  "hoja",
-        "nombre":  "MSDS.ARMEVAL.pdf",
-        "url":  "/uploads/MSDS.ARMEVAL.pdf"
-    },
-    {
-        "producto":  "Aura 20 EC",
-        "tipo":  "hoja",
-        "nombre":  "MSDS.AURA.20.EC.PDF",
-        "url":  "/uploads/MSDS.AURA.20.EC.PDF"
-    },
-    {
-        "producto":  "Basagran 48 SL",
-        "tipo":  "hoja",
-        "nombre":  "MSDS.BASAGRAN.48.SL.PDF",
-        "url":  "/uploads/MSDS.BASAGRAN.48.SL.PDF"
-    },
-    {
-        "producto":  "Basta 15 SL",
-        "tipo":  "hoja",
-        "nombre":  "MSDS.BASTA.15.SL.PDF",
-        "url":  "/uploads/MSDS.BASTA.15.SL.PDF"
-    },
-    {
-        "producto":  "Bellis 38 WG",
-        "tipo":  "hoja",
-        "nombre":  "MSDS.BELLIS.38.WG.PDF",
-        "url":  "/uploads/MSDS.BELLIS.38.WG.PDF"
-    },
-    {
-        "producto":  "Bispizell 40 WP",
-        "tipo":  "hoja",
-        "nombre":  "MSDS.BISPIZELL.40.WP.pdf",
-        "url":  "/uploads/MSDS.BISPIZELL.40.WP.pdf"
-    },
-    {
-        "producto":  "Blatt 24 EC",
-        "tipo":  "hoja",
-        "nombre":  "MSDS.BLATT.24.EC.pdf",
-        "url":  "/uploads/MSDS.BLATT.24.EC.pdf"
-    },
-    {
-        "producto":  "Break-Thru 100 SL",
-        "tipo":  "hoja",
-        "nombre":  "MSDS.BREAK.THRU.PDF",
-        "url":  "/uploads/MSDS.BREAK.THRU.PDF"
-    },
-    {
-        "producto":  "Chess 50 WG",
-        "tipo":  "hoja",
-        "nombre":  "MSDS.CHESS.50.WG.pdf",
-        "url":  "/uploads/MSDS.CHESS.50.WG.pdf"
-    },
-    {
-        "producto":  "Clipper 68 WG",
-        "tipo":  "hoja",
-        "nombre":  "MSDS.CLIPPER.68.WG.pdf",
-        "url":  "/uploads/MSDS.CLIPPER.68.WG.pdf"
-    },
-    {
-        "producto":  "Crusher 60 EC",
-        "tipo":  "hoja",
-        "nombre":  "MSDS.CRUSHER.EC.pdf",
-        "url":  "/uploads/MSDS.CRUSHER.EC.pdf"
-    },
-    {
-        "producto":  "Cupritozell 24 SC",
-        "tipo":  "hoja",
-        "nombre":  "MSDS.CUPRITOZELL.24.SC.pdf",
-        "url":  "/uploads/MSDS.CUPRITOZELL.24.SC.pdf"
-    },
-    {
-        "producto":  "Curacron 50 EC",
-        "tipo":  "hoja",
-        "nombre":  "MSDS.CURACRON.50.EC.pdf",
-        "url":  "/uploads/MSDS.CURACRON.50.EC.pdf"
-    },
-    {
-        "producto":  "Cycosin 50 SC",
-        "tipo":  "hoja",
-        "nombre":  "MSDS.CYCOSIN.50.SC.PDF",
-        "url":  "/uploads/MSDS.CYCOSIN.50.SC.PDF"
-    },
-    {
-        "producto":  "DAC Acetoclor 90 EC",
-        "tipo":  "hoja",
-        "nombre":  "MSDS.DAC.Acetoclor.90.EC.pdf",
-        "url":  "/uploads/MSDS.DAC.Acetoclor.90.EC.pdf"
-    },
-    {
-        "producto":  "DAC Ametrina 50 SC",
-        "tipo":  "hoja",
-        "nombre":  "MSDS.DAC.Ametrina.50.SC.pdf",
-        "url":  "/uploads/MSDS.DAC.Ametrina.50.SC.pdf"
-    },
-    {
-        "producto":  "DAC Clorpirifos 48 EC",
-        "tipo":  "hoja",
-        "nombre":  "MSDS.DAC.Clorpirifos.48.EC.pdf",
-        "url":  "/uploads/MSDS.DAC.Clorpirifos.48.EC.pdf"
-    },
-    {
-        "producto":  "DAC Diuron 80 SC",
-        "tipo":  "hoja",
-        "nombre":  "MSDS.DAC.Diuron.80.SC.pdf",
-        "url":  "/uploads/MSDS.DAC.Diuron.80.SC.pdf"
-    },
-    {
-        "producto":  "DAC Iodine",
-        "tipo":  "hoja",
-        "nombre":  "MSDS.DAC.IODINE.pdf",
-        "url":  "/uploads/MSDS.DAC.IODINE.pdf"
-    },
-    {
-        "producto":  "DAC Malathion 60 EC",
-        "tipo":  "hoja",
-        "nombre":  "MSDS.DAC.MALATHION.60.EC.pdf",
-        "url":  "/uploads/MSDS.DAC.MALATHION.60.EC.pdf"
-    },
-    {
-        "producto":  "DAC Oxamil 24 SL",
-        "tipo":  "hoja",
-        "nombre":  "MSDS.DAC.Oxamil.24.SL.pdf",
-        "url":  "/uploads/MSDS.DAC.Oxamil.24.SL.pdf"
-    },
-    {
-        "producto":  "DAC Terbutrina 50 SC",
-        "tipo":  "hoja",
-        "nombre":  "MSDS.DAC.Terbutrina.50.SC.pdf",
-        "url":  "/uploads/MSDS.DAC.Terbutrina.50.SC.pdf"
-    },
-    {
-        "producto":  "Derozim 50 SC",
-        "tipo":  "hoja",
-        "nombre":  "MSDS.DEROZIM.50.SC.pdf",
-        "url":  "/uploads/MSDS.DEROZIM.50.SC.pdf"
-    },
-    {
-        "producto":  "Dual Gold 96 EC",
-        "tipo":  "hoja",
-        "nombre":  "MSDS.DUAL.GOLD.96.EC.pdf",
-        "url":  "/uploads/MSDS.DUAL.GOLD.96.EC.pdf"
-    },
-    {
-        "producto":  "Eckosil",
-        "tipo":  "hoja",
-        "nombre":  "MSDS.Eckosil.pdf",
-        "url":  "/uploads/MSDS.Eckosil.pdf"
-    },
-    {
-        "producto":  "Engeo 24.7 SC",
-        "tipo":  "hoja",
-        "nombre":  "MSDS.ENGEO.24.7.SC.pdf",
-        "url":  "/uploads/MSDS.ENGEO.24.7.SC.pdf"
-    },
-    {
-        "producto":  "Ethofin 10 SC",
-        "tipo":  "hoja",
-        "nombre":  "MSDS.ETHOFIN.10.SC.pdf",
-        "url":  "/uploads/MSDS.ETHOFIN.10.SC.pdf"
-    },
-    {
-        "producto":  "Facet 25 SC",
-        "tipo":  "hoja",
-        "nombre":  "MSDS.FACET.25.SC.PDF",
-        "url":  "/uploads/MSDS.FACET.25.SC.PDF"
-    },
-    {
-        "producto":  "Forum 15 DC",
-        "tipo":  "hoja",
-        "nombre":  "MSDS.FORUM.15.DC.PDF",
-        "url":  "/uploads/MSDS.FORUM.15.DC.PDF"
-    },
-    {
-        "producto":  "Fusilade 12.5 EC",
-        "tipo":  "hoja",
-        "nombre":  "MSDS.FUSILADE.12.5.EC.pdf",
-        "url":  "/uploads/MSDS.FUSILADE.12.5.EC.pdf"
-    },
-    {
-        "producto":  "Gesaprim 90 WG",
-        "tipo":  "hoja",
-        "nombre":  "MSDS.GESAPRIM.90.WG.pdf",
-        "url":  "/uploads/MSDS.GESAPRIM.90.WG.pdf"
-    },
-    {
-        "producto":  "GrapD Lim",
-        "tipo":  "hoja",
-        "nombre":  "MSDS.GRAP.D.LIM.pdf",
-        "url":  "/uploads/MSDS.GRAP.D.LIM.pdf"
-    },
-    {
-        "producto":  "Grapsuper Gun",
-        "tipo":  "hoja",
-        "nombre":  "MSDS.GRAP.SUPER.GUN.pdf",
-        "url":  "/uploads/MSDS.GRAP.SUPER.GUN.pdf"
-    },
-    {
-        "producto":  "Grapsuper Gun SR",
-        "tipo":  "hoja",
-        "nombre":  "MSDS.GRAP.SUPER.GUN.SR.pdf",
-        "url":  "/uploads/MSDS.GRAP.SUPER.GUN.SR.pdf"
-    },
-    {
-        "producto":  "Hexone Facil 70 WG",
-        "tipo":  "hoja",
-        "nombre":  "MSDS.HEXONE.FACIL.70.WG.pdf",
-        "url":  "/uploads/MSDS.HEXONE.FACIL.70.WG.pdf"
-    },
-    {
-        "producto":  "Imidazell 35 SC",
-        "tipo":  "hoja",
-        "nombre":  "MSDS.IMIDAZELL.35.SC.pdf",
-        "url":  "/uploads/MSDS.IMIDAZELL.35.SC.pdf"
-    },
-    {
-        "producto":  "Ingrain 20 SG",
-        "tipo":  "hoja",
-        "nombre":  "MSDS.INGRAIN.20.SG.pdf",
-        "url":  "/uploads/MSDS.INGRAIN.20.SG.pdf"
-    },
-    {
-        "producto":  "Juwel 25 SC",
-        "tipo":  "hoja",
-        "nombre":  "MSDS.JUWEL.25.SC.PDF",
-        "url":  "/uploads/MSDS.JUWEL.25.SC.PDF"
-    },
-    {
-        "producto":  "Karate Zeon 2.5 CS",
-        "tipo":  "hoja",
-        "nombre":  "MSDS.KARATE.ZEON.2.5.CS.pdf",
-        "url":  "/uploads/MSDS.KARATE.ZEON.2.5.CS.pdf"
-    },
-    {
-        "producto":  "Kasumin 2 SL",
-        "tipo":  "hoja",
-        "nombre":  "MSDS.KASUMIN.2.SL.pdf",
-        "url":  "/uploads/MSDS.KASUMIN.2.SL.pdf"
-    },
-    {
-        "producto":  "Kelpak",
-        "tipo":  "hoja",
-        "nombre":  "MSDS.KELPAK.pdf",
-        "url":  "/uploads/MSDS.KELPAK.pdf"
-    },
-    {
-        "producto":  "Kiplant Allgrip",
-        "tipo":  "hoja",
-        "nombre":  "MSDS.KIPLANT.ALLGRIP.pdf",
-        "url":  "/uploads/MSDS.KIPLANT.ALLGRIP.pdf"
-    },
-    {
-        "producto":  "Kiplant Essence",
-        "tipo":  "hoja",
-        "nombre":  "MSDS.KIPLANT.ESSENCE.pdf",
-        "url":  "/uploads/MSDS.KIPLANT.ESSENCE.pdf"
-    },
-    {
-        "producto":  "Kiplant VS-04",
-        "tipo":  "hoja",
-        "nombre":  "MSDS.KIPLANT.VS-04.pdf",
-        "url":  "/uploads/MSDS.KIPLANT.VS-04.pdf"
-    },
-    {
-        "producto":  "Kumulus 80 WG",
-        "tipo":  "hoja",
-        "nombre":  "MSDS.KUMULUS.80.WG.PDF",
-        "url":  "/uploads/MSDS.KUMULUS.80.WG.PDF"
-    },
-    {
-        "producto":  "Lactosilo Gold Liofilizado",
-        "tipo":  "hoja",
-        "nombre":  "MSDS.LACTOSILO.GOLD.LIOFILIZ.PDF",
-        "url":  "/uploads/MSDS.LACTOSILO.GOLD.LIOFILIZ.PDF"
-    },
-    {
-        "producto":  "Lambda Cihalotrina 2.5 EC",
-        "tipo":  "hoja",
-        "nombre":  "MSDS.LAMBDA.CIHALOTRINA.2.5.EC.pdf",
-        "url":  "/uploads/MSDS.LAMBDA.CIHALOTRINA.2.5.EC.pdf"
-    },
-    {
-        "producto":  "Limpiamaiz 90 WG",
-        "tipo":  "hoja",
-        "nombre":  "MSDS.LIMPIAMAIZ.90.WG.PDF",
-        "url":  "/uploads/MSDS.LIMPIAMAIZ.90.WG.PDF"
-    },
-    {
-        "producto":  "Limpiapotrero 30.4 SL",
-        "tipo":  "hoja",
-        "nombre":  "MSDS.LIMPIAPOTRERO.30.4.SL.pdf",
-        "url":  "/uploads/MSDS.LIMPIAPOTRERO.30.4.SL.pdf"
-    },
-    {
-        "producto":  "Manvert Biolet",
-        "tipo":  "hoja",
-        "nombre":  "MSDS.MANVERT.BIOLET.pdf",
-        "url":  "/uploads/MSDS.MANVERT.BIOLET.pdf"
-    },
-    {
-        "producto":  "Manvert Boro",
-        "tipo":  "hoja",
-        "nombre":  "MSDS.MANVERT.BORO.14.pdf",
-        "url":  "/uploads/MSDS.MANVERT.BORO.14.pdf"
-    },
-    {
-        "producto":  "Manvert Cab Tracker",
-        "tipo":  "hoja",
-        "nombre":  "MSDS.MANVERT.CAB.TRACKER.pdf",
-        "url":  "/uploads/MSDS.MANVERT.CAB.TRACKER.pdf"
-    },
-    {
-        "producto":  "Manvert Calcio 20.2%",
-        "tipo":  "hoja",
-        "nombre":  "MSDS.MANVERT.CALCIO.20.2.pdf",
-        "url":  "/uploads/MSDS.MANVERT.CALCIO.20.2.pdf"
-    },
-    {
-        "producto":  "Manvert Duplo AL",
-        "tipo":  "hoja",
-        "nombre":  "MSDS.MANVERT.DUPLO.AL.pdf",
-        "url":  "/uploads/MSDS.MANVERT.DUPLO.AL.pdf"
-    },
-    {
-        "producto":  "Manvert Enraizante",
-        "tipo":  "hoja",
-        "nombre":  "MSDS.MANVERT.ENRAIZANTE.pdf",
-        "url":  "/uploads/MSDS.MANVERT.ENRAIZANTE.pdf"
-    },
-    {
-        "producto":  "Manvert Estimulante Plus",
-        "tipo":  "hoja",
-        "nombre":  "MSDS.MANVERT.ESTIMULANTE.PLUS.pdf",
-        "url":  "/uploads/MSDS.MANVERT.ESTIMULANTE.PLUS.pdf"
-    },
-    {
-        "producto":  "Manvert Foliplus",
-        "tipo":  "hoja",
-        "nombre":  "MSDS.MANVERT.FOLIPLUS.pdf",
-        "url":  "/uploads/MSDS.MANVERT.FOLIPLUS.pdf"
-    },
-    {
-        "producto":  "Manvert Fosika",
-        "tipo":  "hoja",
-        "nombre":  "MSDS.MANVERT.FOSIKA.pdf",
-        "url":  "/uploads/MSDS.MANVERT.FOSIKA.pdf"
-    },
-    {
-        "producto":  "Manvert Hierro",
-        "tipo":  "hoja",
-        "nombre":  "MSDS.MANVERT.HIERRO.pdf",
-        "url":  "/uploads/MSDS.MANVERT.HIERRO.pdf"
-    },
-    {
-        "producto":  "Manvert Magnesio 10.8%",
-        "tipo":  "hoja",
-        "nombre":  "MSDS.MANVERT.MAGNESIO.10.8.pdf",
-        "url":  "/uploads/MSDS.MANVERT.MAGNESIO.10.8.pdf"
-    },
-    {
-        "producto":  "Manvert Miconic",
-        "tipo":  "hoja",
-        "nombre":  "MSDS.MANVERT.MICONIC.pdf",
-        "url":  "/uploads/MSDS.MANVERT.MICONIC.pdf"
-    },
-    {
-        "producto":  "Manvert Molibdeno Mix",
-        "tipo":  "hoja",
-        "nombre":  "MSDS.MANVERT.MOLIBDENO.MIX.pdf",
-        "url":  "/uploads/MSDS.MANVERT.MOLIBDENO.MIX.pdf"
-    },
-    {
-        "producto":  "Manvert Movili-Ca",
-        "tipo":  "hoja",
-        "nombre":  "MSDS.MANVERT.MOVILI-Ca.pdf",
-        "url":  "/uploads/MSDS.MANVERT.MOVILI-Ca.pdf"
-    },
-    {
-        "producto":  "Manvert Optim pH",
-        "tipo":  "hoja",
-        "nombre":  "MSDS.MANVERT.OPTIM.pH.pdf",
-        "url":  "/uploads/MSDS.MANVERT.OPTIM.pH.pdf"
-    },
-    {
-        "producto":  "Manvert Phytosoap",
-        "tipo":  "hoja",
-        "nombre":  "MSDS.MANVERT.PHYTOSOAP.pdf",
-        "url":  "/uploads/MSDS.MANVERT.PHYTOSOAP.pdf"
-    },
-    {
-        "producto":  "Manvert Potasio 39%",
-        "tipo":  "hoja",
-        "nombre":  "MSDS.MANVERT.POTASIO.39.pdf",
-        "url":  "/uploads/MSDS.MANVERT.POTASIO.39.pdf"
-    },
-    {
-        "producto":  "Manvert Rooting",
-        "tipo":  "hoja",
-        "nombre":  "MSDS.MANVERT.ROOTING.pdf",
-        "url":  "/uploads/MSDS.MANVERT.ROOTING.pdf"
-    },
-    {
-        "producto":  "Manvert Silargon Terra",
-        "tipo":  "hoja",
-        "nombre":  "MSDS.MANVERT.SILARGON.TERRA.pdf",
-        "url":  "/uploads/MSDS.MANVERT.SILARGON.TERRA.pdf"
-    },
-    {
-        "producto":  "Manvert Silikon",
-        "tipo":  "hoja",
-        "nombre":  "MSDS.MANVERT.SILIKON.pdf",
-        "url":  "/uploads/MSDS.MANVERT.SILIKON.pdf"
-    },
-    {
-        "producto":  "Manvert Win-Ca",
-        "tipo":  "hoja",
-        "nombre":  "MSDS.MANVERT.WIN-Ca.pdf",
-        "url":  "/uploads/MSDS.MANVERT.WIN-Ca.pdf"
-    },
-    {
-        "producto":  "Manvert Zinc 9.6%",
-        "tipo":  "hoja",
-        "nombre":  "MSDS.MANVERT.ZINC.9.6.pdf",
-        "url":  "/uploads/MSDS.MANVERT.ZINC.9.6.pdf"
-    },
-    {
-        "producto":  "Manvert ZnB Tracker",
-        "tipo":  "hoja",
-        "nombre":  "MSDS.MANVERT.ZnB.TRACKER.pdf",
-        "url":  "/uploads/MSDS.MANVERT.ZnB.TRACKER.pdf"
-    },
-    {
-        "producto":  "Master Mix 70 WP",
-        "tipo":  "hoja",
-        "nombre":  "MSDS.MASTER.MIX.70.WP.pdf",
-        "url":  "/uploads/MSDS.MASTER.MIX.70.WP.pdf"
-    },
-    {
-        "producto":  "Match 5 EC",
-        "tipo":  "hoja",
-        "nombre":  "MSDS.MATCH.5.EC.pdf",
-        "url":  "/uploads/MSDS.MATCH.5.EC.pdf"
-    },
-    {
-        "producto":  "Mertect 50 SC",
-        "tipo":  "hoja",
-        "nombre":  "MSDS.MERTECT.50.SC.pdf",
-        "url":  "/uploads/MSDS.MERTECT.50.SC.pdf"
-    },
-    {
-        "producto":  "Metralla 12.5 EC",
-        "tipo":  "hoja",
-        "nombre":  "MSDS.METRALLA.12.5.EC.pdf",
-        "url":  "/uploads/MSDS.METRALLA.12.5.EC.pdf"
-    },
-    {
-        "producto":  "Mycoshell Tabs",
-        "tipo":  "hoja",
-        "nombre":  "MSDS.MYCOSHELL.TABS.pdf",
-        "url":  "/uploads/MSDS.MYCOSHELL.TABS.pdf"
-    },
-    {
-        "producto":  "Nomolt 15 SC",
-        "tipo":  "hoja",
-        "nombre":  "MSDS.NOMOLT.15.SC.PDF",
-        "url":  "/uploads/MSDS.NOMOLT.15.SC.PDF"
-    },
-    {
-        "producto":  "Oncol 10 GR",
-        "tipo":  "hoja",
-        "nombre":  "MSDS.ONCOL.10.GR.pdf",
-        "url":  "/uploads/MSDS.ONCOL.10.GR.pdf"
-    },
-    {
-        "producto":  "Oncol 40 EC",
-        "tipo":  "hoja",
-        "nombre":  "MSDS.ONCOL.40.EC.pdf",
-        "url":  "/uploads/MSDS.ONCOL.40.EC.pdf"
-    },
-    {
-        "producto":  "Onix 25 SC",
-        "tipo":  "hoja",
-        "nombre":  "MSDS.ONIX.25.SC.pdf",
-        "url":  "/uploads/MSDS.ONIX.25.SC.pdf"
-    },
-    {
-        "producto":  "Opera 18.3 SE",
-        "tipo":  "hoja",
-        "nombre":  "MSDS.OPERA.18.3.SE.PDF",
-        "url":  "/uploads/MSDS.OPERA.18.3.SE.PDF"
-    },
-    {
-        "producto":  "Opus 12.5 SC",
-        "tipo":  "hoja",
-        "nombre":  "MSDS.OPUS.12.5.SC.PDF",
-        "url":  "/uploads/MSDS.OPUS.12.5.SC.PDF"
-    },
-    {
-        "producto":  "Orthene 97 SG",
-        "tipo":  "hoja",
-        "nombre":  "MSDS.ORTHENE.97.SG.pdf",
-        "url":  "/uploads/MSDS.ORTHENE.97.SG.pdf"
-    },
-    {
-        "producto":  "Pegasus 50 SC",
-        "tipo":  "hoja",
-        "nombre":  "MSDS.PEGASUS.50.SC.pdf",
-        "url":  "/uploads/MSDS.PEGASUS.50.SC.pdf"
-    },
-    {
-        "producto":  "Picudo 20 SC",
-        "tipo":  "hoja",
-        "nombre":  "MSDS.PICUDO.20.SC.pdf",
-        "url":  "/uploads/MSDS.PICUDO.20.SC.pdf"
-    },
-    {
-        "producto":  "Proclaim 5 SG",
-        "tipo":  "hoja",
-        "nombre":  "MSDS.PROCLAIM.5.SG.pdf",
-        "url":  "/uploads/MSDS.PROCLAIM.5.SG.pdf"
-    },
-    {
-        "producto":  "Proparroz 48 EC",
-        "tipo":  "hoja",
-        "nombre":  "MSDS.PROPARROZ.48.EC.pdf",
-        "url":  "/uploads/MSDS.PROPARROZ.48.EC.pdf"
-    },
-    {
-        "producto":  "Prowl 45.5 CS",
-        "tipo":  "hoja",
-        "nombre":  "MSDS.PROWL.45.5.CS.PDF",
-        "url":  "/uploads/MSDS.PROWL.45.5.CS.PDF"
-    },
-    {
-        "producto":  "Pyrazosulfozell 10 WP",
-        "tipo":  "hoja",
-        "nombre":  "MSDS.PYRAZOSULFOZELL.10.WP.pdf",
-        "url":  "/uploads/MSDS.PYRAZOSULFOZELL.10.WP.pdf"
-    },
-    {
-        "producto":  "Reglone 20 SL",
-        "tipo":  "hoja",
-        "nombre":  "MSDS.REGLONE.20.SL.pdf",
-        "url":  "/uploads/MSDS.REGLONE.20.SL.pdf"
-    },
-    {
-        "producto":  "Regnum 25 EC",
-        "tipo":  "hoja",
-        "nombre":  "MSDS.REGNUM.25.EC.PDF",
-        "url":  "/uploads/MSDS.REGNUM.25.EC.PDF"
-    },
-    {
-        "producto":  "Revus 25 SC",
-        "tipo":  "hoja",
-        "nombre":  "MSDS.REVUS.25.SC.pdf",
-        "url":  "/uploads/MSDS.REVUS.25.SC.pdf"
-    },
-    {
-        "producto":  "Ridomil Gold MZ 68 WP",
-        "tipo":  "hoja",
-        "nombre":  "MSDS.RIDOMIL.GOLD.MZ.68.WP.pdf",
-        "url":  "/uploads/MSDS.RIDOMIL.GOLD.MZ.68.WP.pdf"
-    },
-    {
-        "producto":  "Score 25 EC",
-        "tipo":  "hoja",
-        "nombre":  "MSDS.SCORE.25.EC.pdf",
-        "url":  "/uploads/MSDS.SCORE.25.EC.pdf"
-    },
-    {
-        "producto":  "Serifel 10 WP",
-        "tipo":  "hoja",
-        "nombre":  "MSDS.SERIFEL.10.WP.PDF",
-        "url":  "/uploads/MSDS.SERIFEL.10.WP.PDF"
-    },
-    {
-        "producto":  "Sheriff 16 SL",
-        "tipo":  "hoja",
-        "nombre":  "MSDS.SHERIFF.16.SL.pdf",
-        "url":  "/uploads/MSDS.SHERIFF.16.SL.pdf"
-    },
-    {
-        "producto":  "Sonic 9.9 EC",
-        "tipo":  "hoja",
-        "nombre":  "MSDS.SONIC.9.9.EC.pdf",
-        "url":  "/uploads/MSDS.SONIC.9.9.EC.pdf"
-    },
-    {
-        "producto":  "Storm 0.005 BB",
-        "tipo":  "hoja",
-        "nombre":  "MSDS.STORM.PDF",
-        "url":  "/uploads/MSDS.STORM.PDF"
-    },
-    {
-        "producto":  "Sunfire 24 SC",
-        "tipo":  "hoja",
-        "nombre":  "MSDS.SUNFIRE.24.SC.PDF",
-        "url":  "/uploads/MSDS.SUNFIRE.24.SC.PDF"
-    },
-    {
-        "producto":  "Tribel 48 EC",
-        "tipo":  "hoja",
-        "nombre":  "MSDS.Tribel.48.EC.pdf",
-        "url":  "/uploads/MSDS.Tribel.48.EC.pdf"
-    },
-    {
-        "producto":  "Tronazell 60 WP",
-        "tipo":  "hoja",
-        "nombre":  "MSDS.TRONAZELL.60.WP.pdf",
-        "url":  "/uploads/MSDS.TRONAZELL.60.WP.pdf"
-    },
-    {
-        "producto":  "Uniform 43.44 SE",
-        "tipo":  "hoja",
-        "nombre":  "MSDS.UNIFORM.43.44.SE.pdf",
-        "url":  "/uploads/MSDS.UNIFORM.43.44.SE.pdf"
-    },
-    {
-        "producto":  "Validacin 5 SL",
-        "tipo":  "hoja",
-        "nombre":  "MSDS.VALIDACIN.5.SL.pdf",
-        "url":  "/uploads/MSDS.VALIDACIN.5.SL.pdf"
-    },
-    {
-        "producto":  "Vertimec 1.8 EC",
-        "tipo":  "hoja",
-        "nombre":  "MSDS.VERTIMEC.1.8.EC.pdf",
-        "url":  "/uploads/MSDS.VERTIMEC.1.8.EC.pdf"
-    },
-    {
-        "producto":  "Actara 25 WG",
-        "tipo":  "panfleto",
-        "nombre":  "Panfleto.Actara.pdf",
-        "url":  "/uploads/Panfleto.Actara.pdf"
-    },
-    {
-        "producto":  "Agrocom B 5 RB",
-        "tipo":  "panfleto",
-        "nombre":  "Panfleto.Agrocom.B.5.RB.pdf",
-        "url":  "/uploads/Panfleto.Agrocom.B.5.RB.pdf"
-    },
-    {
-        "producto":  "Amistar 50 WG",
-        "tipo":  "panfleto",
-        "nombre":  "Panfleto.Amistar.pdf",
-        "url":  "/uploads/Panfleto.Amistar.pdf"
-    },
-    {
-        "producto":  "Armeval 48 WP",
-        "tipo":  "panfleto",
-        "nombre":  "Panfleto.Armeval.pdf",
-        "url":  "/uploads/Panfleto.Armeval.pdf"
-    },
-    {
-        "producto":  "Arsenal 24 SL",
-        "tipo":  "panfleto",
-        "nombre":  "Panfleto.Arsenal.pdf",
-        "url":  "/uploads/Panfleto.Arsenal.pdf"
-    },
-    {
-        "producto":  "Aura 20 EC",
-        "tipo":  "panfleto",
-        "nombre":  "Panfleto.Aura.pdf",
-        "url":  "/uploads/Panfleto.Aura.pdf"
-    },
-    {
-        "producto":  "Bacstar 25 WG",
-        "tipo":  "panfleto",
-        "nombre":  "Panfleto.Bacstar.pdf",
-        "url":  "/uploads/Panfleto.Bacstar.pdf"
-    },
-    {
-        "producto":  "Basagran 48 SL",
-        "tipo":  "panfleto",
-        "nombre":  "Panfleto.Basagran.48.pdf",
-        "url":  "/uploads/Panfleto.Basagran.48.pdf"
-    },
-    {
-        "producto":  "Bellis 38 WG",
-        "tipo":  "panfleto",
-        "nombre":  "Panfleto.Bellis.38WG.pdf",
-        "url":  "/uploads/Panfleto.Bellis.38WG.pdf"
-    },
-    {
-        "producto":  "Blatt 24 EC",
-        "tipo":  "panfleto",
-        "nombre":  "Panfleto.Blatt.pdf",
-        "url":  "/uploads/Panfleto.Blatt.pdf"
-    },
-    {
-        "producto":  "Bolero 96 EC",
-        "tipo":  "panfleto",
-        "nombre":  "Panfleto.Bolero.pdf",
-        "url":  "/uploads/Panfleto.Bolero.pdf"
-    },
-    {
-        "producto":  "Break-Thru 100 SL",
-        "tipo":  "panfleto",
-        "nombre":  "Panfleto.Break.Thru.pdf",
-        "url":  "/uploads/Panfleto.Break.Thru.pdf"
-    },
-    {
-        "producto":  "Chess 50 WG",
-        "tipo":  "panfleto",
-        "nombre":  "Panfleto.Chess.pdf",
-        "url":  "/uploads/Panfleto.Chess.pdf"
-    },
-    {
-        "producto":  "Clipper 68 WG",
-        "tipo":  "panfleto",
-        "nombre":  "Panfleto.Clipper.pdf",
-        "url":  "/uploads/Panfleto.Clipper.pdf"
-    },
-    {
-        "producto":  "DAC Clorpirifos 48 EC",
-        "tipo":  "panfleto",
-        "nombre":  "Panfleto.Clorpirifos.pdf",
-        "url":  "/uploads/Panfleto.Clorpirifos.pdf"
-    },
-    {
-        "producto":  "Crusher 60 EC",
-        "tipo":  "panfleto",
-        "nombre":  "Panfleto.Crusher.pdf",
-        "url":  "/uploads/Panfleto.Crusher.pdf"
-    },
-    {
-        "producto":  "Cupritozell 24 SC",
-        "tipo":  "panfleto",
-        "nombre":  "Panfleto.Cupritozell.pdf",
-        "url":  "/uploads/Panfleto.Cupritozell.pdf"
-    },
-    {
-        "producto":  "Curacron 50 EC",
-        "tipo":  "panfleto",
-        "nombre":  "Panfleto.Curacron.pdf",
-        "url":  "/uploads/Panfleto.Curacron.pdf"
-    },
-    {
-        "producto":  "Cycosin 50 SC",
-        "tipo":  "panfleto",
-        "nombre":  "Panfleto.Cycosin.pdf",
-        "url":  "/uploads/Panfleto.Cycosin.pdf"
-    },
-    {
-        "producto":  "DAC 2,4-D",
-        "tipo":  "panfleto",
-        "nombre":  "Panfleto.DAC.2.4D.pdf",
-        "url":  "/uploads/Panfleto.DAC.2.4D.pdf"
-    },
-    {
-        "producto":  "DAC Acetoclor 90 EC",
-        "tipo":  "panfleto",
-        "nombre":  "Panfleto.DAC.Acetoclor.90.EC.pdf",
-        "url":  "/uploads/Panfleto.DAC.Acetoclor.90.EC.pdf"
-    },
-    {
-        "producto":  "DAC Ametrina 50 SC",
-        "tipo":  "panfleto",
-        "nombre":  "Panfleto.DAC.Ametrina.pdf",
-        "url":  "/uploads/Panfleto.DAC.Ametrina.pdf"
-    },
-    {
-        "producto":  "DAC Glifosato 35.5 SL",
-        "tipo":  "panfleto",
-        "nombre":  "Panfleto.DAC.Glifosato.pdf",
-        "url":  "/uploads/Panfleto.DAC.Glifosato.pdf"
-    },
-    {
-        "producto":  "DAC Malathion 60 EC",
-        "tipo":  "panfleto",
-        "nombre":  "Panfleto.DAC.Malathion.60.EC.pdf",
-        "url":  "/uploads/Panfleto.DAC.Malathion.60.EC.pdf"
-    },
-    {
-        "producto":  "DAC Paraquat 20 SL",
-        "tipo":  "panfleto",
-        "nombre":  "Panfleto.DAC.Paraquat.pdf",
-        "url":  "/uploads/Panfleto.DAC.Paraquat.pdf"
-    },
-    {
-        "producto":  "DAC PCNB 75 WP",
-        "tipo":  "panfleto",
-        "nombre":  "Panfleto.DAC.PCNB.pdf",
-        "url":  "/uploads/Panfleto.DAC.PCNB.pdf"
-    },
-    {
-        "producto":  "DAC Propiconazol 25 EC",
-        "tipo":  "panfleto",
-        "nombre":  "Panfleto.DAC.Propiconazol.pdf",
-        "url":  "/uploads/Panfleto.DAC.Propiconazol.pdf"
-    },
-    {
-        "producto":  "DAC Terbutrina 50 SC",
-        "tipo":  "panfleto",
-        "nombre":  "Panfleto.DAC.Terbutrina.50.SC.pdf",
-        "url":  "/uploads/Panfleto.DAC.Terbutrina.50.SC.pdf"
-    },
-    {
-        "producto":  "DAC Diuron 80 SC",
-        "tipo":  "panfleto",
-        "nombre":  "Panfleto.Diuron.80.SC.pdf",
-        "url":  "/uploads/Panfleto.Diuron.80.SC.pdf"
-    },
-    {
-        "producto":  "Dual Gold 96 EC",
-        "tipo":  "panfleto",
-        "nombre":  "Panfleto.Dual.Gold.96.EC.pdf",
-        "url":  "/uploads/Panfleto.Dual.Gold.96.EC.pdf"
-    },
-    {
-        "producto":  "Ethofin 10 SC",
-        "tipo":  "panfleto",
-        "nombre":  "Panfleto.Ethofin.10.SC.pdf",
-        "url":  "/uploads/Panfleto.Ethofin.10.SC.pdf"
-    },
-    {
-        "producto":  "Facet 25 SC",
-        "tipo":  "panfleto",
-        "nombre":  "Panfleto.Facet.pdf",
-        "url":  "/uploads/Panfleto.Facet.pdf"
-    },
-    {
-        "producto":  "Forum 15 DC",
-        "tipo":  "panfleto",
-        "nombre":  "Panfleto.Forum.15.DC.pdf",
-        "url":  "/uploads/Panfleto.Forum.15.DC.pdf"
-    },
-    {
-        "producto":  "Hexone Facil 70 WG",
-        "tipo":  "panfleto",
-        "nombre":  "Panfleto.Hexone.Facil.pdf",
-        "url":  "/uploads/Panfleto.Hexone.Facil.pdf"
-    },
-    {
-        "producto":  "Karate Zeon 2.5 CS",
-        "tipo":  "panfleto",
-        "nombre":  "Panfleto.Karate.Zeon.pdf",
-        "url":  "/uploads/Panfleto.Karate.Zeon.pdf"
-    },
-    {
-        "producto":  "Lepicron 75 WP",
-        "tipo":  "panfleto",
-        "nombre":  "Panfleto.Lepicron.75.WP.pdf",
-        "url":  "/uploads/Panfleto.Lepicron.75.WP.pdf"
-    },
-    {
-        "producto":  "Limpiamaiz 90 WG",
-        "tipo":  "panfleto",
-        "nombre":  "Panfleto.Limpiamaiz.90.WG.pdf",
-        "url":  "/uploads/Panfleto.Limpiamaiz.90.WG.pdf"
-    },
-    {
-        "producto":  "Metralla 12.5 EC",
-        "tipo":  "panfleto",
-        "nombre":  "Panfleto.Metralla.pdf",
-        "url":  "/uploads/Panfleto.Metralla.pdf"
-    },
-    {
-        "producto":  "Nomolt 15 SC",
-        "tipo":  "panfleto",
-        "nombre":  "Panfleto.Nomolt.15.SC.pdf",
-        "url":  "/uploads/Panfleto.Nomolt.15.SC.pdf"
-    },
-    {
-        "producto":  "Oncol 40 EC",
-        "tipo":  "panfleto",
-        "nombre":  "Panfleto.Oncol.40.EC.pdf",
-        "url":  "/uploads/Panfleto.Oncol.40.EC.pdf"
-    },
-    {
-        "producto":  "Onix 25 SC",
-        "tipo":  "panfleto",
-        "nombre":  "Panfleto.Onix.pdf",
-        "url":  "/uploads/Panfleto.Onix.pdf"
-    },
-    {
-        "producto":  "Opus 12.5 SC",
-        "tipo":  "panfleto",
-        "nombre":  "Panfleto.Opus.12.5.SC.pdf",
-        "url":  "/uploads/Panfleto.Opus.12.5.SC.pdf"
-    },
-    {
-        "producto":  "Orthene 97 SG",
-        "tipo":  "panfleto",
-        "nombre":  "Panfleto.Orthene.Ultra.pdf",
-        "url":  "/uploads/Panfleto.Orthene.Ultra.pdf"
-    },
-    {
-        "producto":  "Picudo 20 SC",
-        "tipo":  "panfleto",
-        "nombre":  "Panfleto.Picudo.20.SC.pdf",
-        "url":  "/uploads/Panfleto.Picudo.20.SC.pdf"
-    },
-    {
-        "producto":  "Proparroz 48 EC",
-        "tipo":  "panfleto",
-        "nombre":  "Panfleto.Proparroz.pdf",
-        "url":  "/uploads/Panfleto.Proparroz.pdf"
-    },
-    {
-        "producto":  "Prowl 45.5 CS",
-        "tipo":  "panfleto",
-        "nombre":  "Panfleto.Prowl.45.5.CS.pdf",
-        "url":  "/uploads/Panfleto.Prowl.45.5.CS.pdf"
-    },
-    {
-        "producto":  "Reglone 20 SL",
-        "tipo":  "panfleto",
-        "nombre":  "Panfleto.Reglone.20.SL.pdf",
-        "url":  "/uploads/Panfleto.Reglone.20.SL.pdf"
-    },
-    {
-        "producto":  "Regnum 25 EC",
-        "tipo":  "panfleto",
-        "nombre":  "Panfleto.Regnum.25.EC.pdf",
-        "url":  "/uploads/Panfleto.Regnum.25.EC.pdf"
-    },
-    {
-        "producto":  "Score 25 EC",
-        "tipo":  "panfleto",
-        "nombre":  "Panfleto.Score.pdf",
-        "url":  "/uploads/Panfleto.Score.pdf"
-    },
-    {
-        "producto":  "Sheriff 16 SL",
-        "tipo":  "panfleto",
-        "nombre":  "Panfleto.Sheriff.16.SL.pdf",
-        "url":  "/uploads/Panfleto.Sheriff.16.SL.pdf"
-    },
-    {
-        "producto":  "Sonic 9.9 EC",
-        "tipo":  "panfleto",
-        "nombre":  "Panfleto.Sonic.pdf",
-        "url":  "/uploads/Panfleto.Sonic.pdf"
-    },
-    {
-        "producto":  "Storm 0.005 BB",
-        "tipo":  "panfleto",
-        "nombre":  "Panfleto.Storm.pdf",
-        "url":  "/uploads/Panfleto.Storm.pdf"
-    },
-    {
-        "producto":  "DAC PARAQUAT 20 SL",
-        "tipo":  "hoja",
-        "nombre":  "MSDS-Paraquat-20-SL.pdf",
-        "url":  "/uploads/MSDS-Paraquat-20-SL.pdf"
-    },
-    {
-        "producto":  "DAC ETEFON 48 SL",
-        "tipo":  "panfleto",
-        "nombre":  "DAC-ETEFON-48-SL.pdf",
-        "url":  "/uploads/DAC-ETEFON-48-SL.pdf"
-    },
-    {
-        "producto":  "KASUMIN 2 SL",
-        "tipo":  "panfleto",
-        "nombre":  "Panfleto-Kasumin-2-SL.pdf",
-        "url":  "/uploads/Panfleto-Kasumin-2-SL.pdf"
-    },
-    {
-        "producto":  "ZAMPRO 52.5 SC",
-        "tipo":  "hoja",
-        "nombre":  "MSDS-ZAMPRO.PDF",
-        "url":  "/uploads/MSDS-ZAMPRO.PDF"
-    },
-    {
-        "producto":  "ZAMPRO 52.5 SC",
-        "tipo":  "panfleto",
-        "nombre":  "Panfleto-Zampro.pdf",
-        "url":  "/uploads/Panfleto-Zampro.pdf"
-    },
-    {
-        "producto":  "Versys 10 DC",
-        "tipo":  "panfleto",
-        "nombre":  "Panfleto-Versys.pdf",
-        "url":  "/uploads/Panfleto-Versys.pdf"
-    },
-    {
-        "producto":  "VERSYS 10 DC",
-        "tipo":  "hoja",
-        "nombre":  "MSDS-VERSYS-10-DC.pdf",
-        "url":  "/uploads/MSDS-VERSYS-10-DC.pdf"
-    },
-    {
-        "producto":  "BISPIZELL 40 WP",
-        "tipo":  "panfleto",
-        "nombre":  "Panfleto-Bispizell.pdf",
-        "url":  "/uploads/Panfleto-Bispizell.pdf"
-    },
-    {
-        "producto":  "DAC OXAMIL 24 SL",
-        "tipo":  "panfleto",
-        "nombre":  "Panfleto-DAC-Oxamil-24-SL.pdf",
-        "url":  "/uploads/Panfleto-DAC-Oxamil-24-SL.pdf"
-    },
-    {
-        "producto":  "DASH 34.9 EC",
-        "tipo":  "hoja",
-        "nombre":  "MSDS-DASH-34.9-EC.PDF",
-        "url":  "/uploads/MSDS-DASH-34.9-EC.PDF"
-    },
-    {
-        "producto":  "DASH 34.9 EC",
-        "tipo":  "hoja",
-        "nombre":  "Panfleto-Dash.pdf",
-        "url":  "/uploads/Panfleto-Dash.pdf"
-    },
-    {
-        "producto":  "DASH 34.9 EC",
-        "tipo":  "panfleto",
-        "nombre":  "Panfleto-Dash.pdf",
-        "url":  "/uploads/Panfleto-Dash.pdf"
-    },
-    {
-        "producto":  "Juwel 25 SC",
-        "tipo":  "panfleto",
-        "nombre":  "Panfleto-Juwel-25-SC.pdf",
-        "url":  "/uploads/Panfleto-Juwel-25-SC.pdf"
-    },
-    {
-        "producto":  "Derozim 50 SC",
-        "tipo":  "panfleto",
-        "nombre":  "Panfleto-Derozim-50-SC.pdf",
-        "url":  "/uploads/Panfleto-Derozim-50-SC.pdf"
-    },
-    {
-        "producto":  "Manvert Duplo AL",
-        "tipo":  "ficha",
-        "nombre":  "FT-Manvert-duplo.pdf",
-        "url":  "/uploads/FT-Manvert-duplo.pdf"
-    },
-    {
-        "producto":  "Manvert Enraizante",
-        "tipo":  "ficha",
-        "nombre":  "FT-Manvert-enraizante.pdf",
-        "url":  "/uploads/FT-Manvert-enraizante.pdf"
-    },
-    {
-        "producto":  "Manvert Boro",
-        "tipo":  "ficha",
-        "nombre":  "FT-Manvert-boro.pdf",
-        "url":  "/uploads/FT-Manvert-boro.pdf"
-    },
-    {
-        "producto":  "Manvert Cab Tracker",
-        "tipo":  "ficha",
-        "nombre":  "FT-Manvert-cab-tracker.pdf",
-        "url":  "/uploads/FT-Manvert-cab-tracker.pdf"
-    },
-    {
-        "producto":  "Manvert Biolet",
-        "tipo":  "ficha",
-        "nombre":  "FT-Manvert-biolet.pdf",
-        "url":  "/uploads/FT-Manvert-biolet.pdf"
-    },
-    {
-        "producto":  "Manvert Estimulante Plus",
-        "tipo":  "ficha",
-        "nombre":  "FT-Manvert-Estimulante-plus.pdf",
-        "url":  "/uploads/FT-Manvert-Estimulante-plus.pdf"
-    },
-    {
-        "producto":  "Acrobat MZ 69 WP",
-        "tipo":  "panfleto",
-        "nombre":  "Acrobat-MZ-69-WP.pdf",
-        "url":  "/uploads/Acrobat-MZ-69-WP.pdf"
-    },
-    {
-        "producto":  "BACSTAR 25 WG",
-        "tipo":  "hoja",
-        "nombre":  "MSDS-BACSTAR-25-WG.pdf",
-        "url":  "/uploads/MSDS-BACSTAR-25-WG.pdf"
-    },
-    {
-        "producto":  "Amylox 101.8 SC",
-        "tipo":  "hoja",
-        "nombre":  "MSDS-AmyloX.pdf",
-        "url":  "/uploads/MSDS-AmyloX.pdf"
-    },
-    {
-        "producto":  "Amylox 101.8 SC",
-        "tipo":  "panfleto",
-        "nombre":  "Panfleto-Amylox-101.8-SC.pdf",
-        "url":  "/uploads/Panfleto-Amylox-101.8-SC.pdf"
-    },
-    {
-        "producto":  "ENGEO 24.7 SC",
-        "tipo":  "panfleto",
-        "nombre":  "Panfleto-Engeo.pdf",
-        "url":  "/uploads/Panfleto-Engeo.pdf"
-    },
-    {
-        "producto":  "FUSILADE 12.5 EC",
-        "tipo":  "panfleto",
-        "nombre":  "Panfleto-Fusilade.pdf",
-        "url":  "/uploads/Panfleto-Fusilade.pdf"
-    },
-    {
-        "producto":  "Gesaprim 90 WG",
-        "tipo":  "panfleto",
-        "nombre":  "Panfleto-Gesaprim-90-WG.pdf",
-        "url":  "/uploads/Panfleto-Gesaprim-90-WG.pdf"
-    },
-    {
-        "producto":  "Pegasus 50 SC",
-        "tipo":  "panfleto",
-        "nombre":  "Panfleto-Pegasus.pdf",
-        "url":  "/uploads/Panfleto-Pegasus.pdf"
-    },
-    {
-        "producto":  "Tribel 48 EC",
-        "tipo":  "panfleto",
-        "nombre":  "Panfleto-Tribel.pdf",
-        "url":  "/uploads/Panfleto-Tribel.pdf"
-    },
-    {
-        "producto":  "Sunfire 24 SC",
-        "tipo":  "panfleto",
-        "nombre":  "Panfleto-Sunfire.pdf",
-        "url":  "/uploads/Panfleto-Sunfire.pdf"
-    },
-    {
-        "producto":  "Tronazell 60 WP",
-        "tipo":  "panfleto",
-        "nombre":  "Panfleto-Tronazell.pdf",
-        "url":  "/uploads/Panfleto-Tronazell.pdf"
-    },
-    {
-        "producto":  "Serifel 10 WP",
-        "tipo":  "panfleto",
-        "nombre":  "Panfleto-Serifel.pdf",
-        "url":  "/uploads/Panfleto-Serifel.pdf"
-    },
-    {
-        "producto":  "Acrozell 69 WP",
-        "tipo":  "panfleto",
-        "nombre":  "Panfleto-Acrozell.pdf",
-        "url":  "/uploads/Panfleto-Acrozell.pdf"
-    },
-    {
-        "producto":  "Eckosil",
-        "tipo":  "panfleto",
-        "nombre":  "FT-Eckosil.pdf",
-        "url":  "/uploads/FT-Eckosil.pdf"
-    },
-    {
-        "producto":  "GrapD Lim",
-        "tipo":  "panfleto",
-        "nombre":  "FT-GRAP-D-LIM.pdf",
-        "url":  "/uploads/FT-GRAP-D-LIM.pdf"
-    },
-    {
-        "producto":  "Grapsuper Gun",
-        "tipo":  "panfleto",
-        "nombre":  "FT-GRAP-SUPER-GUN.pdf",
-        "url":  "/uploads/FT-GRAP-SUPER-GUN.pdf"
-    },
-    {
-        "producto":  "Grapsuper Gun SR",
-        "tipo":  "panfleto",
-        "nombre":  "FT-GRAP-SUPER-GUN-SR.pdf",
-        "url":  "/uploads/FT-GRAP-SUPER-GUN-SR.pdf"
-    },
-    {
-        "producto":  "Oncol 10 GR",
-        "tipo":  "panfleto",
-        "nombre":  "Panfleto-Oncol-10-GR.pdf",
-        "url":  "/uploads/Panfleto-Oncol-10-GR.pdf"
-    },
-    {
-        "producto":  "Matric 5 SG",
-        "tipo":  "panfleto",
-        "nombre":  "Panfleto-Matric-5-SC.pdf",
-        "url":  "/uploads/Panfleto-Matric-5-SC.pdf"
-    },
-    {
-        "producto":  "Actellic 50 EC",
-        "tipo":  "panfleto",
-        "nombre":  "Panfleto-Actellic.pdf",
-        "url":  "/uploads/Panfleto-Actellic.pdf"
-    },
-    {
-        "producto":  "Imidazell 35 SC",
-        "tipo":  "panfleto",
-        "nombre":  "Panfleto-Imidazell.pdf",
-        "url":  "/uploads/Panfleto-Imidazell.pdf"
-    },
-    {
-        "producto":  "Limpiapotrero 30.4 SL",
-        "tipo":  "panfleto",
-        "nombre":  "Panfleto-Limpiapotreros.pdf",
-        "url":  "/uploads/Panfleto-Limpiapotreros.pdf"
-    },
-    {
-        "producto":  "Vertimec 1.8 EC",
-        "tipo":  "panfleto",
-        "nombre":  "Panfleto-Vertimec.pdf",
-        "url":  "/uploads/Panfleto-Vertimec.pdf"
-    },
-    {
-        "producto":  "Kumulus 80 WG",
-        "tipo":  "panfleto",
-        "nombre":  "Panfleto-Kumulus.pdf",
-        "url":  "/uploads/Panfleto-Kumulus.pdf"
-    },
-    {
-        "producto":  "Proclaim 5 SG",
-        "tipo":  "panfleto",
-        "nombre":  "Panfleto-Proclaim.pdf",
-        "url":  "/uploads/Panfleto-Proclaim.pdf"
-    },
-    {
-        "producto":  "Opera 18.3 SE",
-        "tipo":  "panfleto",
-        "nombre":  "Panfleto-Opera.pdf",
-        "url":  "/uploads/Panfleto-Opera.pdf"
-    },
-    {
-        "producto":  "Lambda Cihalotrina 2.5 EC",
-        "tipo":  "panfleto",
-        "nombre":  "Panfleto-Lambda-Cihalotrina.pdf",
-        "url":  "/uploads/Panfleto-Lambda-Cihalotrina.pdf"
-    },
-    {
-        "producto":  "Manvert Calcio 20.2%",
-        "tipo":  "ficha",
-        "nombre":  "FT-Manvert-calcio.pdf",
-        "url":  "/uploads/FT-Manvert-calcio.pdf"
-    },
-    {
-        "producto":  "Manvert Foliplus",
-        "tipo":  "ficha",
-        "nombre":  "FT-Manvert-foliplus.pdf",
-        "url":  "/uploads/FT-Manvert-foliplus.pdf"
-    },
-    {
-        "producto":  "Manvert Fosika",
-        "tipo":  "ficha",
-        "nombre":  "FT-Manvert-fosika.pdf",
-        "url":  "/uploads/FT-Manvert-fosika.pdf"
-    },
-    {
-        "producto":  "Manvert Hierro",
-        "tipo":  "ficha",
-        "nombre":  "FT-Manvert-hierro.pdf",
-        "url":  "/uploads/FT-Manvert-hierro.pdf"
-    },
-    {
-        "producto":  "Manvert Magnesio 10.8%",
-        "tipo":  "ficha",
-        "nombre":  "FT-Manvert-magnesio.pdf",
-        "url":  "/uploads/FT-Manvert-magnesio.pdf"
-    },
-    {
-        "producto":  "Manvert Miconic",
-        "tipo":  "ficha",
-        "nombre":  "FT-Manvert-miconic.pdf",
-        "url":  "/uploads/FT-Manvert-miconic.pdf"
-    },
-    {
-        "producto":  "Manvert Molibdeno Mix",
-        "tipo":  "ficha",
-        "nombre":  "FT-Manvert-molibdeno-mix.pdf",
-        "url":  "/uploads/FT-Manvert-molibdeno-mix.pdf"
-    },
-    {
-        "producto":  "Manvert Movili-Ca",
-        "tipo":  "ficha",
-        "nombre":  "FT-Manvert-movili-ca.pdf",
-        "url":  "/uploads/FT-Manvert-movili-ca.pdf"
-    },
-    {
-        "producto":  "Manvert Optim pH",
-        "tipo":  "ficha",
-        "nombre":  "FT-Manvert-optim-pH.pdf",
-        "url":  "/uploads/FT-Manvert-optim-pH.pdf"
-    },
-    {
-        "producto":  "Manvert Phytosoap",
-        "tipo":  "ficha",
-        "nombre":  "FT-Manvert-phytosoap.pdf",
-        "url":  "/uploads/FT-Manvert-phytosoap.pdf"
-    },
-    {
-        "producto":  "Manvert Potasio 39%",
-        "tipo":  "ficha",
-        "nombre":  "FT-Manvert-potasio.pdf",
-        "url":  "/uploads/FT-Manvert-potasio.pdf"
-    },
-    {
-        "producto":  "Manvert Silikon",
-        "tipo":  "ficha",
-        "nombre":  "FT-Manvert-silikon.pdf",
-        "url":  "/uploads/FT-Manvert-silikon.pdf"
-    },
-    {
-        "producto":  "Manvert Silargon Terra",
-        "tipo":  "ficha",
-        "nombre":  "FT-Manvert-silargon-terra.pdf",
-        "url":  "/uploads/FT-Manvert-silargon-terra.pdf"
-    },
-    {
-        "producto":  "Manvert Win-Ca",
-        "tipo":  "ficha",
-        "nombre":  "FT-Manvert-win-ca.pdf",
-        "url":  "/uploads/FT-Manvert-win-ca.pdf"
-    },
-    {
-        "producto":  "Manvert Zinc 9.6%",
-        "tipo":  "ficha",
-        "nombre":  "FT-Manvert-zinc.pdf",
-        "url":  "/uploads/FT-Manvert-zinc.pdf"
-    },
-    {
-        "producto":  "Orthocide 50 WP",
-        "tipo":  "hoja",
-        "nombre":  "MSDS-Orthocide-50-WP.pdf",
-        "url":  "/uploads/MSDS-Orthocide-50-WP.pdf"
-    },
-    {
-        "producto":  "Orthocide 50 WP",
-        "tipo":  "panfleto",
-        "nombre":  "Panfleto-Orthocide.pdf",
-        "url":  "/uploads/Panfleto-Orthocide.pdf"
-    },
-    {
-        "producto":  "Pyrazosulfozell 10 WP",
-        "tipo":  "panfleto",
-        "nombre":  "Panfleto-Pyrazosulfozell.pdf",
-        "url":  "/uploads/Panfleto-Pyrazosulfozell.pdf"
-    },
-    {
-        "producto":  "Manvert ZnB Tracker",
-        "tipo":  "ficha",
-        "nombre":  "FT-Manvert-znb-tracker.pdf",
-        "url":  "/uploads/FT-Manvert-znb-tracker.pdf"
-    },
-    {
-        "producto":  "Master Mix 70 WP",
-        "tipo":  "panfleto",
-        "nombre":  "Panfleto-Master-Mix-70-WP.pdf",
-        "url":  "/uploads/Panfleto-Master-Mix-70-WP.pdf"
-    },
-    {
-        "producto":  "Match 5 EC",
-        "tipo":  "panfleto",
-        "nombre":  "Panfleto-Match.pdf",
-        "url":  "/uploads/Panfleto-Match.pdf"
-    },
-    {
-        "producto":  "Mertect 50 SC",
-        "tipo":  "panfleto",
-        "nombre":  "Panfleto-Mertect.pdf",
-        "url":  "/uploads/Panfleto-Mertect.pdf"
-    },
-    {
-        "producto":  "Ridomil Gold MZ 68 WP",
-        "tipo":  "panfleto",
-        "nombre":  "Panfleto-Ridomil-Gold.pdf",
-        "url":  "/uploads/Panfleto-Ridomil-Gold.pdf"
-    },
-    {
-        "producto":  "Uniform 43.44 SE",
-        "tipo":  "panfleto",
-        "nombre":  "Panfleto-Uniform.pdf",
-        "url":  "/uploads/Panfleto-Uniform.pdf"
-    },
-    {
-        "producto":  "Validacin 5 SL",
-        "tipo":  "panfleto",
-        "nombre":  "Panfleto-Validacin.pdf",
-        "url":  "/uploads/Panfleto-Validacin.pdf"
-    },
-    {
-        "producto":  "Vaiplex 80 WP",
-        "tipo":  "panfleto",
-        "nombre":  "Panfleto-Vaiplex.pdf",
-        "url":  "/uploads/Panfleto-Vaiplex.pdf"
-    },
-    {
-        "producto":  "Mycoshell Tabs",
-        "tipo":  "ficha",
-        "nombre":  "FT-Mycoshell-Tabs.pdf",
-        "url":  "/uploads/FT-Mycoshell-Tabs.pdf"
-    },
-    {
-        "producto":  "Heat 70 WG",
-        "tipo":  "panfleto",
-        "nombre":  "Panfleto-Heat.pdf",
-        "url":  "/uploads/Panfleto-Heat.pdf"
-    },
-    {
-        "producto":  "Kelpak",
-        "tipo":  "panfleto",
-        "nombre":  "Panfleto-Kelpak.pdf",
-        "url":  "/uploads/Panfleto-Kelpak.pdf"
-    },
-    {
-        "producto":  "Kiplant Essence",
-        "tipo":  "ficha",
-        "nombre":  "FT-Kiplant-Essence.pdf",
-        "url":  "/uploads/FT-Kiplant-Essence.pdf"
-    },
-    {
-        "producto":  "Kiplant Allgrip",
-        "tipo":  "ficha",
-        "nombre":  "FT-Kiplant-Allgrip.pdf",
-        "url":  "/uploads/FT-Kiplant-Allgrip.pdf"
-    },
-    {
-        "producto":  "Kiplant VS-04",
-        "tipo":  "ficha",
-        "nombre":  "FT-Kiplant-VS-04.pdf",
-        "url":  "/uploads/FT-Kiplant-VS-04.pdf"
-    },
-    {
-        "producto":  "Arsenal 24 SL",
-        "tipo":  "hoja",
-        "nombre":  "MSDS-ARSENAL-24-SL.PDF",
-        "url":  "/uploads/MSDS-ARSENAL-24-SL.PDF"
-    },
-    {
-        "producto":  "Heat 70 WG",
-        "tipo":  "hoja",
-        "nombre":  "MSDS-HEAT.PDF",
-        "url":  "/uploads/MSDS-HEAT.PDF"
-    },
-    {
-        "producto":  "Lepicron 75 WP",
-        "tipo":  "hoja",
-        "nombre":  "MSDS-LEPICROM.pdf",
-        "url":  "/uploads/MSDS-LEPICROM.pdf"
-    },
-    {
-        "producto":  "Ingrain 20 SG",
-        "tipo":  "ficha",
-        "nombre":  "FT-Ingrain.pdf",
-        "url":  "/uploads/FT-Ingrain.pdf"
-    },
-    {
-        "producto":  "Ingrain 20 SG",
-        "tipo":  "panfleto",
-        "nombre":  "PANFLETO-INGRAIN-20-SG.pdf",
-        "url":  "/uploads/PANFLETO-INGRAIN-20-SG.pdf"
-    },
-    {
-        "producto":  "Razor 50 SC",
-        "tipo":  "ficha",
-        "nombre":  "FT-Razor-50-SC.pdf",
-        "url":  "/uploads/FT-Razor-50-SC.pdf"
-    },
-    {
-        "producto":  "Basta 15 SL",
-        "tipo":  "panfleto",
-        "nombre":  "Panfleto-Basta.pdf",
-        "url":  "/uploads/Panfleto-Basta.pdf"
-    },
-    {
-        "producto":  "Razor 50 SC",
-        "tipo":  "hoja",
-        "nombre":  "MSDS-RAZOR.pdf",
-        "url":  "/uploads/MSDS-RAZOR.pdf"
-    }
+  {
+    "producto": "Acrobat MZ 69 WP",
+    "tipo": "hoja",
+    "nombre": "MSDS.ACROBAT.MZ.69.WP.PDF",
+    "url": "/uploads/MSDS.ACROBAT.MZ.69.WP.PDF"
+  },
+  {
+    "producto": "Acrozell 69 WP",
+    "tipo": "hoja",
+    "nombre": "MSDS.ACROZELL.69.WP.pdf",
+    "url": "/uploads/MSDS.ACROZELL.69.WP.pdf"
+  },
+  {
+    "producto": "Actara 25 WG",
+    "tipo": "hoja",
+    "nombre": "MSDS.ACTARA.25.WG.pdf",
+    "url": "/uploads/MSDS.ACTARA.25.WG.pdf"
+  },
+  {
+    "producto": "Actellic 50 EC",
+    "tipo": "hoja",
+    "nombre": "MSDS.ACTELLIC.50.EC.pdf",
+    "url": "/uploads/MSDS.ACTELLIC.50.EC.pdf"
+  },
+  {
+    "producto": "Amistar 50 WG",
+    "tipo": "hoja",
+    "nombre": "MSDS.AMISTAR.50.WG.pdf",
+    "url": "/uploads/MSDS.AMISTAR.50.WG.pdf"
+  },
+  {
+    "producto": "Armeval 48 WP",
+    "tipo": "hoja",
+    "nombre": "MSDS.ARMEVAL.pdf",
+    "url": "/uploads/MSDS.ARMEVAL.pdf"
+  },
+  {
+    "producto": "Aura 20 EC",
+    "tipo": "hoja",
+    "nombre": "MSDS.AURA.20.EC.PDF",
+    "url": "/uploads/MSDS.AURA.20.EC.PDF"
+  },
+  {
+    "producto": "Basagran 48 SL",
+    "tipo": "hoja",
+    "nombre": "MSDS.BASAGRAN.48.SL.PDF",
+    "url": "/uploads/MSDS.BASAGRAN.48.SL.PDF"
+  },
+  {
+    "producto": "Basta 15 SL",
+    "tipo": "hoja",
+    "nombre": "MSDS.BASTA.15.SL.PDF",
+    "url": "/uploads/MSDS.BASTA.15.SL.PDF"
+  },
+  {
+    "producto": "Bellis 38 WG",
+    "tipo": "hoja",
+    "nombre": "MSDS.BELLIS.38.WG.PDF",
+    "url": "/uploads/MSDS.BELLIS.38.WG.PDF"
+  },
+  {
+    "producto": "Bispizell 40 WP",
+    "tipo": "hoja",
+    "nombre": "MSDS.BISPIZELL.40.WP.pdf",
+    "url": "/uploads/MSDS.BISPIZELL.40.WP.pdf"
+  },
+  {
+    "producto": "Blatt 24 EC",
+    "tipo": "hoja",
+    "nombre": "MSDS.BLATT.24.EC.pdf",
+    "url": "/uploads/MSDS.BLATT.24.EC.pdf"
+  },
+  {
+    "producto": "Break-Thru 100 SL",
+    "tipo": "hoja",
+    "nombre": "MSDS.BREAK.THRU.PDF",
+    "url": "/uploads/MSDS.BREAK.THRU.PDF"
+  },
+  {
+    "producto": "Chess 50 WG",
+    "tipo": "hoja",
+    "nombre": "MSDS.CHESS.50.WG.pdf",
+    "url": "/uploads/MSDS.CHESS.50.WG.pdf"
+  },
+  {
+    "producto": "Clipper 68 WG",
+    "tipo": "hoja",
+    "nombre": "MSDS.CLIPPER.68.WG.pdf",
+    "url": "/uploads/MSDS.CLIPPER.68.WG.pdf"
+  },
+  {
+    "producto": "Crusher 60 EC",
+    "tipo": "hoja",
+    "nombre": "MSDS.CRUSHER.EC.pdf",
+    "url": "/uploads/MSDS.CRUSHER.EC.pdf"
+  },
+  {
+    "producto": "Cupritozell 24 SC",
+    "tipo": "hoja",
+    "nombre": "MSDS.CUPRITOZELL.24.SC.pdf",
+    "url": "/uploads/MSDS.CUPRITOZELL.24.SC.pdf"
+  },
+  {
+    "producto": "Curacron 50 EC",
+    "tipo": "hoja",
+    "nombre": "MSDS.CURACRON.50.EC.pdf",
+    "url": "/uploads/MSDS.CURACRON.50.EC.pdf"
+  },
+  {
+    "producto": "Cycosin 50 SC",
+    "tipo": "hoja",
+    "nombre": "MSDS.CYCOSIN.50.SC.PDF",
+    "url": "/uploads/MSDS.CYCOSIN.50.SC.PDF"
+  },
+  {
+    "producto": "DAC Acetoclor 90 EC",
+    "tipo": "hoja",
+    "nombre": "MSDS.DAC.Acetoclor.90.EC.pdf",
+    "url": "/uploads/MSDS.DAC.Acetoclor.90.EC.pdf"
+  },
+  {
+    "producto": "DAC Ametrina 50 SC",
+    "tipo": "hoja",
+    "nombre": "MSDS.DAC.Ametrina.50.SC.pdf",
+    "url": "/uploads/MSDS.DAC.Ametrina.50.SC.pdf"
+  },
+  {
+    "producto": "DAC Clorpirifos 48 EC",
+    "tipo": "hoja",
+    "nombre": "MSDS.DAC.Clorpirifos.48.EC.pdf",
+    "url": "/uploads/MSDS.DAC.Clorpirifos.48.EC.pdf"
+  },
+  {
+    "producto": "DAC Diuron 80 SC",
+    "tipo": "hoja",
+    "nombre": "MSDS.DAC.Diuron.80.SC.pdf",
+    "url": "/uploads/MSDS.DAC.Diuron.80.SC.pdf"
+  },
+  {
+    "producto": "DAC Iodine",
+    "tipo": "hoja",
+    "nombre": "MSDS.DAC.IODINE.pdf",
+    "url": "/uploads/MSDS.DAC.IODINE.pdf"
+  },
+  {
+    "producto": "DAC Malathion 60 EC",
+    "tipo": "hoja",
+    "nombre": "MSDS.DAC.MALATHION.60.EC.pdf",
+    "url": "/uploads/MSDS.DAC.MALATHION.60.EC.pdf"
+  },
+  {
+    "producto": "DAC Oxamil 24 SL",
+    "tipo": "hoja",
+    "nombre": "MSDS.DAC.Oxamil.24.SL.pdf",
+    "url": "/uploads/MSDS.DAC.Oxamil.24.SL.pdf"
+  },
+  {
+    "producto": "DAC Terbutrina 50 SC",
+    "tipo": "hoja",
+    "nombre": "MSDS.DAC.Terbutrina.50.SC.pdf",
+    "url": "/uploads/MSDS.DAC.Terbutrina.50.SC.pdf"
+  },
+  {
+    "producto": "Derozim 50 SC",
+    "tipo": "hoja",
+    "nombre": "MSDS.DEROZIM.50.SC.pdf",
+    "url": "/uploads/MSDS.DEROZIM.50.SC.pdf"
+  },
+  {
+    "producto": "Dual Gold 96 EC",
+    "tipo": "hoja",
+    "nombre": "MSDS.DUAL.GOLD.96.EC.pdf",
+    "url": "/uploads/MSDS.DUAL.GOLD.96.EC.pdf"
+  },
+  {
+    "producto": "Eckosil",
+    "tipo": "hoja",
+    "nombre": "MSDS.Eckosil.pdf",
+    "url": "/uploads/MSDS.Eckosil.pdf"
+  },
+  {
+    "producto": "Engeo 24.7 SC",
+    "tipo": "hoja",
+    "nombre": "MSDS.ENGEO.24.7.SC.pdf",
+    "url": "/uploads/MSDS.ENGEO.24.7.SC.pdf"
+  },
+  {
+    "producto": "Ethofin 10 SC",
+    "tipo": "hoja",
+    "nombre": "MSDS.ETHOFIN.10.SC.pdf",
+    "url": "/uploads/MSDS.ETHOFIN.10.SC.pdf"
+  },
+  {
+    "producto": "Facet 25 SC",
+    "tipo": "hoja",
+    "nombre": "MSDS.FACET.25.SC.PDF",
+    "url": "/uploads/MSDS.FACET.25.SC.PDF"
+  },
+  {
+    "producto": "Forum 15 DC",
+    "tipo": "hoja",
+    "nombre": "MSDS.FORUM.15.DC.PDF",
+    "url": "/uploads/MSDS.FORUM.15.DC.PDF"
+  },
+  {
+    "producto": "Fusilade 12.5 EC",
+    "tipo": "hoja",
+    "nombre": "MSDS.FUSILADE.12.5.EC.pdf",
+    "url": "/uploads/MSDS.FUSILADE.12.5.EC.pdf"
+  },
+  {
+    "producto": "Gesaprim 90 WG",
+    "tipo": "hoja",
+    "nombre": "MSDS.GESAPRIM.90.WG.pdf",
+    "url": "/uploads/MSDS.GESAPRIM.90.WG.pdf"
+  },
+  {
+    "producto": "GrapD Lim",
+    "tipo": "hoja",
+    "nombre": "MSDS.GRAP.D.LIM.pdf",
+    "url": "/uploads/MSDS.GRAP.D.LIM.pdf"
+  },
+  {
+    "producto": "Grapsuper Gun",
+    "tipo": "hoja",
+    "nombre": "MSDS.GRAP.SUPER.GUN.pdf",
+    "url": "/uploads/MSDS.GRAP.SUPER.GUN.pdf"
+  },
+  {
+    "producto": "Grapsuper Gun SR",
+    "tipo": "hoja",
+    "nombre": "MSDS.GRAP.SUPER.GUN.SR.pdf",
+    "url": "/uploads/MSDS.GRAP.SUPER.GUN.SR.pdf"
+  },
+  {
+    "producto": "Hexone Facil 70 WG",
+    "tipo": "hoja",
+    "nombre": "MSDS.HEXONE.FACIL.70.WG.pdf",
+    "url": "/uploads/MSDS.HEXONE.FACIL.70.WG.pdf"
+  },
+  {
+    "producto": "Imidazell 35 SC",
+    "tipo": "hoja",
+    "nombre": "MSDS.IMIDAZELL.35.SC.pdf",
+    "url": "/uploads/MSDS.IMIDAZELL.35.SC.pdf"
+  },
+  {
+    "producto": "Ingrain 20 SG",
+    "tipo": "hoja",
+    "nombre": "MSDS.INGRAIN.20.SG.pdf",
+    "url": "/uploads/MSDS.INGRAIN.20.SG.pdf"
+  },
+  {
+    "producto": "Juwel 25 SC",
+    "tipo": "hoja",
+    "nombre": "MSDS.JUWEL.25.SC.PDF",
+    "url": "/uploads/MSDS.JUWEL.25.SC.PDF"
+  },
+  {
+    "producto": "Karate Zeon 2.5 CS",
+    "tipo": "hoja",
+    "nombre": "MSDS.KARATE.ZEON.2.5.CS.pdf",
+    "url": "/uploads/MSDS.KARATE.ZEON.2.5.CS.pdf"
+  },
+  {
+    "producto": "Kasumin 2 SL",
+    "tipo": "hoja",
+    "nombre": "MSDS.KASUMIN.2.SL.pdf",
+    "url": "/uploads/MSDS.KASUMIN.2.SL.pdf"
+  },
+  {
+    "producto": "Kelpak",
+    "tipo": "hoja",
+    "nombre": "MSDS.KELPAK.pdf",
+    "url": "/uploads/MSDS.KELPAK.pdf"
+  },
+  {
+    "producto": "Kiplant Allgrip",
+    "tipo": "hoja",
+    "nombre": "MSDS.KIPLANT.ALLGRIP.pdf",
+    "url": "/uploads/MSDS.KIPLANT.ALLGRIP.pdf"
+  },
+  {
+    "producto": "Kiplant Essence",
+    "tipo": "hoja",
+    "nombre": "MSDS.KIPLANT.ESSENCE.pdf",
+    "url": "/uploads/MSDS.KIPLANT.ESSENCE.pdf"
+  },
+  {
+    "producto": "Kiplant VS-04",
+    "tipo": "hoja",
+    "nombre": "MSDS.KIPLANT.VS-04.pdf",
+    "url": "/uploads/MSDS.KIPLANT.VS-04.pdf"
+  },
+  {
+    "producto": "Kumulus 80 WG",
+    "tipo": "hoja",
+    "nombre": "MSDS.KUMULUS.80.WG.PDF",
+    "url": "/uploads/MSDS.KUMULUS.80.WG.PDF"
+  },
+  {
+    "producto": "Lactosilo Gold Liofilizado",
+    "tipo": "hoja",
+    "nombre": "MSDS.LACTOSILO.GOLD.LIOFILIZ.PDF",
+    "url": "/uploads/MSDS.LACTOSILO.GOLD.LIOFILIZ.PDF"
+  },
+  {
+    "producto": "Lambda Cihalotrina 2.5 EC",
+    "tipo": "hoja",
+    "nombre": "MSDS.LAMBDA.CIHALOTRINA.2.5.EC.pdf",
+    "url": "/uploads/MSDS.LAMBDA.CIHALOTRINA.2.5.EC.pdf"
+  },
+  {
+    "producto": "Limpiamaiz 90 WG",
+    "tipo": "hoja",
+    "nombre": "MSDS.LIMPIAMAIZ.90.WG.PDF",
+    "url": "/uploads/MSDS.LIMPIAMAIZ.90.WG.PDF"
+  },
+  {
+    "producto": "Limpiapotrero 30.4 SL",
+    "tipo": "hoja",
+    "nombre": "MSDS.LIMPIAPOTRERO.30.4.SL.pdf",
+    "url": "/uploads/MSDS.LIMPIAPOTRERO.30.4.SL.pdf"
+  },
+  {
+    "producto": "Manvert Biolet",
+    "tipo": "hoja",
+    "nombre": "MSDS.MANVERT.BIOLET.pdf",
+    "url": "/uploads/MSDS.MANVERT.BIOLET.pdf"
+  },
+  {
+    "producto": "Manvert Boro",
+    "tipo": "hoja",
+    "nombre": "MSDS.MANVERT.BORO.14.pdf",
+    "url": "/uploads/MSDS.MANVERT.BORO.14.pdf"
+  },
+  {
+    "producto": "Manvert Cab Tracker",
+    "tipo": "hoja",
+    "nombre": "MSDS.MANVERT.CAB.TRACKER.pdf",
+    "url": "/uploads/MSDS.MANVERT.CAB.TRACKER.pdf"
+  },
+  {
+    "producto": "Manvert Calcio 20.2%",
+    "tipo": "hoja",
+    "nombre": "MSDS.MANVERT.CALCIO.20.2.pdf",
+    "url": "/uploads/MSDS.MANVERT.CALCIO.20.2.pdf"
+  },
+  {
+    "producto": "Manvert Duplo AL",
+    "tipo": "hoja",
+    "nombre": "MSDS.MANVERT.DUPLO.AL.pdf",
+    "url": "/uploads/MSDS.MANVERT.DUPLO.AL.pdf"
+  },
+  {
+    "producto": "Manvert Enraizante",
+    "tipo": "hoja",
+    "nombre": "MSDS.MANVERT.ENRAIZANTE.pdf",
+    "url": "/uploads/MSDS.MANVERT.ENRAIZANTE.pdf"
+  },
+  {
+    "producto": "Manvert Estimulante Plus",
+    "tipo": "hoja",
+    "nombre": "MSDS.MANVERT.ESTIMULANTE.PLUS.pdf",
+    "url": "/uploads/MSDS.MANVERT.ESTIMULANTE.PLUS.pdf"
+  },
+  {
+    "producto": "Manvert Foliplus",
+    "tipo": "hoja",
+    "nombre": "MSDS.MANVERT.FOLIPLUS.pdf",
+    "url": "/uploads/MSDS.MANVERT.FOLIPLUS.pdf"
+  },
+  {
+    "producto": "Manvert Fosika",
+    "tipo": "hoja",
+    "nombre": "MSDS.MANVERT.FOSIKA.pdf",
+    "url": "/uploads/MSDS.MANVERT.FOSIKA.pdf"
+  },
+  {
+    "producto": "Manvert Hierro",
+    "tipo": "hoja",
+    "nombre": "MSDS.MANVERT.HIERRO.pdf",
+    "url": "/uploads/MSDS.MANVERT.HIERRO.pdf"
+  },
+  {
+    "producto": "Manvert Magnesio 10.8%",
+    "tipo": "hoja",
+    "nombre": "MSDS.MANVERT.MAGNESIO.10.8.pdf",
+    "url": "/uploads/MSDS.MANVERT.MAGNESIO.10.8.pdf"
+  },
+  {
+    "producto": "Manvert Miconic",
+    "tipo": "hoja",
+    "nombre": "MSDS.MANVERT.MICONIC.pdf",
+    "url": "/uploads/MSDS.MANVERT.MICONIC.pdf"
+  },
+  {
+    "producto": "Manvert Molibdeno Mix",
+    "tipo": "hoja",
+    "nombre": "MSDS.MANVERT.MOLIBDENO.MIX.pdf",
+    "url": "/uploads/MSDS.MANVERT.MOLIBDENO.MIX.pdf"
+  },
+  {
+    "producto": "Manvert Movili-Ca",
+    "tipo": "hoja",
+    "nombre": "MSDS.MANVERT.MOVILI-Ca.pdf",
+    "url": "/uploads/MSDS.MANVERT.MOVILI-Ca.pdf"
+  },
+  {
+    "producto": "Manvert Optim pH",
+    "tipo": "hoja",
+    "nombre": "MSDS.MANVERT.OPTIM.pH.pdf",
+    "url": "/uploads/MSDS.MANVERT.OPTIM.pH.pdf"
+  },
+  {
+    "producto": "Manvert Phytosoap",
+    "tipo": "hoja",
+    "nombre": "MSDS.MANVERT.PHYTOSOAP.pdf",
+    "url": "/uploads/MSDS.MANVERT.PHYTOSOAP.pdf"
+  },
+  {
+    "producto": "Manvert Potasio 39%",
+    "tipo": "hoja",
+    "nombre": "MSDS.MANVERT.POTASIO.39.pdf",
+    "url": "/uploads/MSDS.MANVERT.POTASIO.39.pdf"
+  },
+  {
+    "producto": "Manvert Rooting",
+    "tipo": "hoja",
+    "nombre": "MSDS.MANVERT.ROOTING.pdf",
+    "url": "/uploads/MSDS.MANVERT.ROOTING.pdf"
+  },
+  {
+    "producto": "Manvert Silargon Terra",
+    "tipo": "hoja",
+    "nombre": "MSDS.MANVERT.SILARGON.TERRA.pdf",
+    "url": "/uploads/MSDS.MANVERT.SILARGON.TERRA.pdf"
+  },
+  {
+    "producto": "Manvert Silikon",
+    "tipo": "hoja",
+    "nombre": "MSDS.MANVERT.SILIKON.pdf",
+    "url": "/uploads/MSDS.MANVERT.SILIKON.pdf"
+  },
+  {
+    "producto": "Manvert Win-Ca",
+    "tipo": "hoja",
+    "nombre": "MSDS.MANVERT.WIN-Ca.pdf",
+    "url": "/uploads/MSDS.MANVERT.WIN-Ca.pdf"
+  },
+  {
+    "producto": "Manvert Zinc 9.6%",
+    "tipo": "hoja",
+    "nombre": "MSDS.MANVERT.ZINC.9.6.pdf",
+    "url": "/uploads/MSDS.MANVERT.ZINC.9.6.pdf"
+  },
+  {
+    "producto": "Manvert ZnB Tracker",
+    "tipo": "hoja",
+    "nombre": "MSDS.MANVERT.ZnB.TRACKER.pdf",
+    "url": "/uploads/MSDS.MANVERT.ZnB.TRACKER.pdf"
+  },
+  {
+    "producto": "Master Mix 70 WP",
+    "tipo": "hoja",
+    "nombre": "MSDS.MASTER.MIX.70.WP.pdf",
+    "url": "/uploads/MSDS.MASTER.MIX.70.WP.pdf"
+  },
+  {
+    "producto": "Match 5 EC",
+    "tipo": "hoja",
+    "nombre": "MSDS.MATCH.5.EC.pdf",
+    "url": "/uploads/MSDS.MATCH.5.EC.pdf"
+  },
+  {
+    "producto": "Mertect 50 SC",
+    "tipo": "hoja",
+    "nombre": "MSDS.MERTECT.50.SC.pdf",
+    "url": "/uploads/MSDS.MERTECT.50.SC.pdf"
+  },
+  {
+    "producto": "Metralla 12.5 EC",
+    "tipo": "hoja",
+    "nombre": "MSDS.METRALLA.12.5.EC.pdf",
+    "url": "/uploads/MSDS.METRALLA.12.5.EC.pdf"
+  },
+  {
+    "producto": "Mycoshell Tabs",
+    "tipo": "hoja",
+    "nombre": "MSDS.MYCOSHELL.TABS.pdf",
+    "url": "/uploads/MSDS.MYCOSHELL.TABS.pdf"
+  },
+  {
+    "producto": "Nomolt 15 SC",
+    "tipo": "hoja",
+    "nombre": "MSDS.NOMOLT.15.SC.PDF",
+    "url": "/uploads/MSDS.NOMOLT.15.SC.PDF"
+  },
+  {
+    "producto": "Oncol 10 GR",
+    "tipo": "hoja",
+    "nombre": "MSDS.ONCOL.10.GR.pdf",
+    "url": "/uploads/MSDS.ONCOL.10.GR.pdf"
+  },
+  {
+    "producto": "Oncol 40 EC",
+    "tipo": "hoja",
+    "nombre": "MSDS.ONCOL.40.EC.pdf",
+    "url": "/uploads/MSDS.ONCOL.40.EC.pdf"
+  },
+  {
+    "producto": "Onix 25 SC",
+    "tipo": "hoja",
+    "nombre": "MSDS.ONIX.25.SC.pdf",
+    "url": "/uploads/MSDS.ONIX.25.SC.pdf"
+  },
+  {
+    "producto": "Opera 18.3 SE",
+    "tipo": "hoja",
+    "nombre": "MSDS.OPERA.18.3.SE.PDF",
+    "url": "/uploads/MSDS.OPERA.18.3.SE.PDF"
+  },
+  {
+    "producto": "Opus 12.5 SC",
+    "tipo": "hoja",
+    "nombre": "MSDS.OPUS.12.5.SC.PDF",
+    "url": "/uploads/MSDS.OPUS.12.5.SC.PDF"
+  },
+  {
+    "producto": "Orthene 97 SG",
+    "tipo": "hoja",
+    "nombre": "MSDS.ORTHENE.97.SG.pdf",
+    "url": "/uploads/MSDS.ORTHENE.97.SG.pdf"
+  },
+  {
+    "producto": "Pegasus 50 SC",
+    "tipo": "hoja",
+    "nombre": "MSDS.PEGASUS.50.SC.pdf",
+    "url": "/uploads/MSDS.PEGASUS.50.SC.pdf"
+  },
+  {
+    "producto": "Picudo 20 SC",
+    "tipo": "hoja",
+    "nombre": "MSDS.PICUDO.20.SC.pdf",
+    "url": "/uploads/MSDS.PICUDO.20.SC.pdf"
+  },
+  {
+    "producto": "Proclaim 5 SG",
+    "tipo": "hoja",
+    "nombre": "MSDS.PROCLAIM.5.SG.pdf",
+    "url": "/uploads/MSDS.PROCLAIM.5.SG.pdf"
+  },
+  {
+    "producto": "Proparroz 48 EC",
+    "tipo": "hoja",
+    "nombre": "MSDS.PROPARROZ.48.EC.pdf",
+    "url": "/uploads/MSDS.PROPARROZ.48.EC.pdf"
+  },
+  {
+    "producto": "Prowl 45.5 CS",
+    "tipo": "hoja",
+    "nombre": "MSDS.PROWL.45.5.CS.PDF",
+    "url": "/uploads/MSDS.PROWL.45.5.CS.PDF"
+  },
+  {
+    "producto": "Pyrazosulfozell 10 WP",
+    "tipo": "hoja",
+    "nombre": "MSDS.PYRAZOSULFOZELL.10.WP.pdf",
+    "url": "/uploads/MSDS.PYRAZOSULFOZELL.10.WP.pdf"
+  },
+  {
+    "producto": "Reglone 20 SL",
+    "tipo": "hoja",
+    "nombre": "MSDS.REGLONE.20.SL.pdf",
+    "url": "/uploads/MSDS.REGLONE.20.SL.pdf"
+  },
+  {
+    "producto": "Regnum 25 EC",
+    "tipo": "hoja",
+    "nombre": "MSDS.REGNUM.25.EC.PDF",
+    "url": "/uploads/MSDS.REGNUM.25.EC.PDF"
+  },
+  {
+    "producto": "Revus 25 SC",
+    "tipo": "hoja",
+    "nombre": "MSDS.REVUS.25.SC.pdf",
+    "url": "/uploads/MSDS.REVUS.25.SC.pdf"
+  },
+  {
+    "producto": "Ridomil Gold MZ 68 WP",
+    "tipo": "hoja",
+    "nombre": "MSDS.RIDOMIL.GOLD.MZ.68.WP.pdf",
+    "url": "/uploads/MSDS.RIDOMIL.GOLD.MZ.68.WP.pdf"
+  },
+  {
+    "producto": "Score 25 EC",
+    "tipo": "hoja",
+    "nombre": "MSDS.SCORE.25.EC.pdf",
+    "url": "/uploads/MSDS.SCORE.25.EC.pdf"
+  },
+  {
+    "producto": "Serifel 10 WP",
+    "tipo": "hoja",
+    "nombre": "MSDS.SERIFEL.10.WP.PDF",
+    "url": "/uploads/MSDS.SERIFEL.10.WP.PDF"
+  },
+  {
+    "producto": "Sheriff 16 SL",
+    "tipo": "hoja",
+    "nombre": "MSDS.SHERIFF.16.SL.pdf",
+    "url": "/uploads/MSDS.SHERIFF.16.SL.pdf"
+  },
+  {
+    "producto": "Sonic 9.9 EC",
+    "tipo": "hoja",
+    "nombre": "MSDS.SONIC.9.9.EC.pdf",
+    "url": "/uploads/MSDS.SONIC.9.9.EC.pdf"
+  },
+  {
+    "producto": "Storm 0.005 BB",
+    "tipo": "hoja",
+    "nombre": "MSDS.STORM.PDF",
+    "url": "/uploads/MSDS.STORM.PDF"
+  },
+  {
+    "producto": "Sunfire 24 SC",
+    "tipo": "hoja",
+    "nombre": "MSDS.SUNFIRE.24.SC.PDF",
+    "url": "/uploads/MSDS.SUNFIRE.24.SC.PDF"
+  },
+  {
+    "producto": "Tribel 48 EC",
+    "tipo": "hoja",
+    "nombre": "MSDS.Tribel.48.EC.pdf",
+    "url": "/uploads/MSDS.Tribel.48.EC.pdf"
+  },
+  {
+    "producto": "Tronazell 60 WP",
+    "tipo": "hoja",
+    "nombre": "MSDS.TRONAZELL.60.WP.pdf",
+    "url": "/uploads/MSDS.TRONAZELL.60.WP.pdf"
+  },
+  {
+    "producto": "Uniform 43.44 SE",
+    "tipo": "hoja",
+    "nombre": "MSDS.UNIFORM.43.44.SE.pdf",
+    "url": "/uploads/MSDS.UNIFORM.43.44.SE.pdf"
+  },
+  {
+    "producto": "Validacin 5 SL",
+    "tipo": "hoja",
+    "nombre": "MSDS.VALIDACIN.5.SL.pdf",
+    "url": "/uploads/MSDS.VALIDACIN.5.SL.pdf"
+  },
+  {
+    "producto": "Vertimec 1.8 EC",
+    "tipo": "hoja",
+    "nombre": "MSDS.VERTIMEC.1.8.EC.pdf",
+    "url": "/uploads/MSDS.VERTIMEC.1.8.EC.pdf"
+  },
+  {
+    "producto": "Actara 25 WG",
+    "tipo": "panfleto",
+    "nombre": "Panfleto.Actara.pdf",
+    "url": "/uploads/Panfleto.Actara.pdf"
+  },
+  {
+    "producto": "Agrocom B 5 RB",
+    "tipo": "panfleto",
+    "nombre": "Panfleto.Agrocom.B.5.RB.pdf",
+    "url": "/uploads/Panfleto.Agrocom.B.5.RB.pdf"
+  },
+  {
+    "producto": "Amistar 50 WG",
+    "tipo": "panfleto",
+    "nombre": "Panfleto.Amistar.pdf",
+    "url": "/uploads/Panfleto.Amistar.pdf"
+  },
+  {
+    "producto": "Armeval 48 WP",
+    "tipo": "panfleto",
+    "nombre": "Panfleto.Armeval.pdf",
+    "url": "/uploads/Panfleto.Armeval.pdf"
+  },
+  {
+    "producto": "Arsenal 24 SL",
+    "tipo": "panfleto",
+    "nombre": "Panfleto.Arsenal.pdf",
+    "url": "/uploads/Panfleto.Arsenal.pdf"
+  },
+  {
+    "producto": "Aura 20 EC",
+    "tipo": "panfleto",
+    "nombre": "Panfleto.Aura.pdf",
+    "url": "/uploads/Panfleto.Aura.pdf"
+  },
+  {
+    "producto": "Bacstar 25 WG",
+    "tipo": "panfleto",
+    "nombre": "Panfleto.Bacstar.pdf",
+    "url": "/uploads/Panfleto.Bacstar.pdf"
+  },
+  {
+    "producto": "Basagran 48 SL",
+    "tipo": "panfleto",
+    "nombre": "Panfleto.Basagran.48.pdf",
+    "url": "/uploads/Panfleto.Basagran.48.pdf"
+  },
+  {
+    "producto": "Bellis 38 WG",
+    "tipo": "panfleto",
+    "nombre": "Panfleto.Bellis.38WG.pdf",
+    "url": "/uploads/Panfleto.Bellis.38WG.pdf"
+  },
+  {
+    "producto": "Blatt 24 EC",
+    "tipo": "panfleto",
+    "nombre": "Panfleto.Blatt.pdf",
+    "url": "/uploads/Panfleto.Blatt.pdf"
+  },
+  {
+    "producto": "Bolero 96 EC",
+    "tipo": "panfleto",
+    "nombre": "Panfleto.Bolero.pdf",
+    "url": "/uploads/Panfleto.Bolero.pdf"
+  },
+  {
+    "producto": "Break-Thru 100 SL",
+    "tipo": "panfleto",
+    "nombre": "Panfleto.Break.Thru.pdf",
+    "url": "/uploads/Panfleto.Break.Thru.pdf"
+  },
+  {
+    "producto": "Chess 50 WG",
+    "tipo": "panfleto",
+    "nombre": "Panfleto.Chess.pdf",
+    "url": "/uploads/Panfleto.Chess.pdf"
+  },
+  {
+    "producto": "Clipper 68 WG",
+    "tipo": "panfleto",
+    "nombre": "Panfleto.Clipper.pdf",
+    "url": "/uploads/Panfleto.Clipper.pdf"
+  },
+  {
+    "producto": "DAC Clorpirifos 48 EC",
+    "tipo": "panfleto",
+    "nombre": "Panfleto.Clorpirifos.pdf",
+    "url": "/uploads/Panfleto.Clorpirifos.pdf"
+  },
+  {
+    "producto": "Crusher 60 EC",
+    "tipo": "panfleto",
+    "nombre": "Panfleto.Crusher.pdf",
+    "url": "/uploads/Panfleto.Crusher.pdf"
+  },
+  {
+    "producto": "Cupritozell 24 SC",
+    "tipo": "panfleto",
+    "nombre": "Panfleto.Cupritozell.pdf",
+    "url": "/uploads/Panfleto.Cupritozell.pdf"
+  },
+  {
+    "producto": "Curacron 50 EC",
+    "tipo": "panfleto",
+    "nombre": "Panfleto.Curacron.pdf",
+    "url": "/uploads/Panfleto.Curacron.pdf"
+  },
+  {
+    "producto": "Cycosin 50 SC",
+    "tipo": "panfleto",
+    "nombre": "Panfleto.Cycosin.pdf",
+    "url": "/uploads/Panfleto.Cycosin.pdf"
+  },
+  {
+    "producto": "DAC 2,4-D",
+    "tipo": "panfleto",
+    "nombre": "Panfleto.DAC.2.4D.pdf",
+    "url": "/uploads/Panfleto.DAC.2.4D.pdf"
+  },
+  {
+    "producto": "DAC Acetoclor 90 EC",
+    "tipo": "panfleto",
+    "nombre": "Panfleto.DAC.Acetoclor.90.EC.pdf",
+    "url": "/uploads/Panfleto.DAC.Acetoclor.90.EC.pdf"
+  },
+  {
+    "producto": "DAC Ametrina 50 SC",
+    "tipo": "panfleto",
+    "nombre": "Panfleto.DAC.Ametrina.pdf",
+    "url": "/uploads/Panfleto.DAC.Ametrina.pdf"
+  },
+  {
+    "producto": "DAC Glifosato 35.5 SL",
+    "tipo": "panfleto",
+    "nombre": "Panfleto.DAC.Glifosato.pdf",
+    "url": "/uploads/Panfleto.DAC.Glifosato.pdf"
+  },
+  {
+    "producto": "DAC Malathion 60 EC",
+    "tipo": "panfleto",
+    "nombre": "Panfleto.DAC.Malathion.60.EC.pdf",
+    "url": "/uploads/Panfleto.DAC.Malathion.60.EC.pdf"
+  },
+  {
+    "producto": "DAC Paraquat 20 SL",
+    "tipo": "panfleto",
+    "nombre": "Panfleto.DAC.Paraquat.pdf",
+    "url": "/uploads/Panfleto.DAC.Paraquat.pdf"
+  },
+  {
+    "producto": "DAC PCNB 75 WP",
+    "tipo": "panfleto",
+    "nombre": "Panfleto.DAC.PCNB.pdf",
+    "url": "/uploads/Panfleto.DAC.PCNB.pdf"
+  },
+  {
+    "producto": "DAC Propiconazol 25 EC",
+    "tipo": "panfleto",
+    "nombre": "Panfleto.DAC.Propiconazol.pdf",
+    "url": "/uploads/Panfleto.DAC.Propiconazol.pdf"
+  },
+  {
+    "producto": "DAC Terbutrina 50 SC",
+    "tipo": "panfleto",
+    "nombre": "Panfleto.DAC.Terbutrina.50.SC.pdf",
+    "url": "/uploads/Panfleto.DAC.Terbutrina.50.SC.pdf"
+  },
+  {
+    "producto": "DAC Diuron 80 SC",
+    "tipo": "panfleto",
+    "nombre": "Panfleto.Diuron.80.SC.pdf",
+    "url": "/uploads/Panfleto.Diuron.80.SC.pdf"
+  },
+  {
+    "producto": "Dual Gold 96 EC",
+    "tipo": "panfleto",
+    "nombre": "Panfleto.Dual.Gold.96.EC.pdf",
+    "url": "/uploads/Panfleto.Dual.Gold.96.EC.pdf"
+  },
+  {
+    "producto": "Ethofin 10 SC",
+    "tipo": "panfleto",
+    "nombre": "Panfleto.Ethofin.10.SC.pdf",
+    "url": "/uploads/Panfleto.Ethofin.10.SC.pdf"
+  },
+  {
+    "producto": "Facet 25 SC",
+    "tipo": "panfleto",
+    "nombre": "Panfleto.Facet.pdf",
+    "url": "/uploads/Panfleto.Facet.pdf"
+  },
+  {
+    "producto": "Forum 15 DC",
+    "tipo": "panfleto",
+    "nombre": "Panfleto.Forum.15.DC.pdf",
+    "url": "/uploads/Panfleto.Forum.15.DC.pdf"
+  },
+  {
+    "producto": "Hexone Facil 70 WG",
+    "tipo": "panfleto",
+    "nombre": "Panfleto.Hexone.Facil.pdf",
+    "url": "/uploads/Panfleto.Hexone.Facil.pdf"
+  },
+  {
+    "producto": "Karate Zeon 2.5 CS",
+    "tipo": "panfleto",
+    "nombre": "Panfleto.Karate.Zeon.pdf",
+    "url": "/uploads/Panfleto.Karate.Zeon.pdf"
+  },
+  {
+    "producto": "Lepicron 75 WP",
+    "tipo": "panfleto",
+    "nombre": "Panfleto.Lepicron.75.WP.pdf",
+    "url": "/uploads/Panfleto.Lepicron.75.WP.pdf"
+  },
+  {
+    "producto": "Limpiamaiz 90 WG",
+    "tipo": "panfleto",
+    "nombre": "Panfleto.Limpiamaiz.90.WG.pdf",
+    "url": "/uploads/Panfleto.Limpiamaiz.90.WG.pdf"
+  },
+  {
+    "producto": "Metralla 12.5 EC",
+    "tipo": "panfleto",
+    "nombre": "Panfleto.Metralla.pdf",
+    "url": "/uploads/Panfleto.Metralla.pdf"
+  },
+  {
+    "producto": "Nomolt 15 SC",
+    "tipo": "panfleto",
+    "nombre": "Panfleto.Nomolt.15.SC.pdf",
+    "url": "/uploads/Panfleto.Nomolt.15.SC.pdf"
+  },
+  {
+    "producto": "Oncol 40 EC",
+    "tipo": "panfleto",
+    "nombre": "Panfleto.Oncol.40.EC.pdf",
+    "url": "/uploads/Panfleto.Oncol.40.EC.pdf"
+  },
+  {
+    "producto": "Onix 25 SC",
+    "tipo": "panfleto",
+    "nombre": "Panfleto.Onix.pdf",
+    "url": "/uploads/Panfleto.Onix.pdf"
+  },
+  {
+    "producto": "Opus 12.5 SC",
+    "tipo": "panfleto",
+    "nombre": "Panfleto.Opus.12.5.SC.pdf",
+    "url": "/uploads/Panfleto.Opus.12.5.SC.pdf"
+  },
+  {
+    "producto": "Orthene 97 SG",
+    "tipo": "panfleto",
+    "nombre": "Panfleto.Orthene.Ultra.pdf",
+    "url": "/uploads/Panfleto.Orthene.Ultra.pdf"
+  },
+  {
+    "producto": "Picudo 20 SC",
+    "tipo": "panfleto",
+    "nombre": "Panfleto.Picudo.20.SC.pdf",
+    "url": "/uploads/Panfleto.Picudo.20.SC.pdf"
+  },
+  {
+    "producto": "Proparroz 48 EC",
+    "tipo": "panfleto",
+    "nombre": "Panfleto.Proparroz.pdf",
+    "url": "/uploads/Panfleto.Proparroz.pdf"
+  },
+  {
+    "producto": "Prowl 45.5 CS",
+    "tipo": "panfleto",
+    "nombre": "Panfleto.Prowl.45.5.CS.pdf",
+    "url": "/uploads/Panfleto.Prowl.45.5.CS.pdf"
+  },
+  {
+    "producto": "Reglone 20 SL",
+    "tipo": "panfleto",
+    "nombre": "Panfleto.Reglone.20.SL.pdf",
+    "url": "/uploads/Panfleto.Reglone.20.SL.pdf"
+  },
+  {
+    "producto": "Regnum 25 EC",
+    "tipo": "panfleto",
+    "nombre": "Panfleto.Regnum.25.EC.pdf",
+    "url": "/uploads/Panfleto.Regnum.25.EC.pdf"
+  },
+  {
+    "producto": "Score 25 EC",
+    "tipo": "panfleto",
+    "nombre": "Panfleto.Score.pdf",
+    "url": "/uploads/Panfleto.Score.pdf"
+  },
+  {
+    "producto": "Sheriff 16 SL",
+    "tipo": "panfleto",
+    "nombre": "Panfleto.Sheriff.16.SL.pdf",
+    "url": "/uploads/Panfleto.Sheriff.16.SL.pdf"
+  },
+  {
+    "producto": "Sonic 9.9 EC",
+    "tipo": "panfleto",
+    "nombre": "Panfleto.Sonic.pdf",
+    "url": "/uploads/Panfleto.Sonic.pdf"
+  },
+  {
+    "producto": "Storm 0.005 BB",
+    "tipo": "panfleto",
+    "nombre": "Panfleto.Storm.pdf",
+    "url": "/uploads/Panfleto.Storm.pdf"
+  },
+  {
+    "producto": "DAC PARAQUAT 20 SL",
+    "tipo": "hoja",
+    "nombre": "MSDS-Paraquat-20-SL.pdf",
+    "url": "/uploads/MSDS-Paraquat-20-SL.pdf"
+  },
+  {
+    "producto": "DAC ETEFON 48 SL",
+    "tipo": "panfleto",
+    "nombre": "DAC-ETEFON-48-SL.pdf",
+    "url": "/uploads/DAC-ETEFON-48-SL.pdf"
+  },
+  {
+    "producto": "KASUMIN 2 SL",
+    "tipo": "panfleto",
+    "nombre": "Panfleto-Kasumin-2-SL.pdf",
+    "url": "/uploads/Panfleto-Kasumin-2-SL.pdf"
+  },
+  {
+    "producto": "ZAMPRO 52.5 SC",
+    "tipo": "hoja",
+    "nombre": "MSDS-ZAMPRO.PDF",
+    "url": "/uploads/MSDS-ZAMPRO.PDF"
+  },
+  {
+    "producto": "ZAMPRO 52.5 SC",
+    "tipo": "panfleto",
+    "nombre": "Panfleto-Zampro.pdf",
+    "url": "/uploads/Panfleto-Zampro.pdf"
+  },
+  {
+    "producto": "Versys 10 DC",
+    "tipo": "panfleto",
+    "nombre": "Panfleto-Versys.pdf",
+    "url": "/uploads/Panfleto-Versys.pdf"
+  },
+  {
+    "producto": "VERSYS 10 DC",
+    "tipo": "hoja",
+    "nombre": "MSDS-VERSYS-10-DC.pdf",
+    "url": "/uploads/MSDS-VERSYS-10-DC.pdf"
+  },
+  {
+    "producto": "BISPIZELL 40 WP",
+    "tipo": "panfleto",
+    "nombre": "Panfleto-Bispizell.pdf",
+    "url": "/uploads/Panfleto-Bispizell.pdf"
+  },
+  {
+    "producto": "DAC OXAMIL 24 SL",
+    "tipo": "panfleto",
+    "nombre": "Panfleto-DAC-Oxamil-24-SL.pdf",
+    "url": "/uploads/Panfleto-DAC-Oxamil-24-SL.pdf"
+  },
+  {
+    "producto": "DASH 34.9 EC",
+    "tipo": "hoja",
+    "nombre": "MSDS-DASH-34.9-EC.PDF",
+    "url": "/uploads/MSDS-DASH-34.9-EC.PDF"
+  },
+  {
+    "producto": "DASH 34.9 EC",
+    "tipo": "hoja",
+    "nombre": "Panfleto-Dash.pdf",
+    "url": "/uploads/Panfleto-Dash.pdf"
+  },
+  {
+    "producto": "DASH 34.9 EC",
+    "tipo": "panfleto",
+    "nombre": "Panfleto-Dash.pdf",
+    "url": "/uploads/Panfleto-Dash.pdf"
+  },
+  {
+    "producto": "Juwel 25 SC",
+    "tipo": "panfleto",
+    "nombre": "Panfleto-Juwel-25-SC.pdf",
+    "url": "/uploads/Panfleto-Juwel-25-SC.pdf"
+  },
+  {
+    "producto": "Derozim 50 SC",
+    "tipo": "panfleto",
+    "nombre": "Panfleto-Derozim-50-SC.pdf",
+    "url": "/uploads/Panfleto-Derozim-50-SC.pdf"
+  },
+  {
+    "producto": "Manvert Duplo AL",
+    "tipo": "ficha",
+    "nombre": "FT-Manvert-duplo.pdf",
+    "url": "/uploads/FT-Manvert-duplo.pdf"
+  },
+  {
+    "producto": "Manvert Enraizante",
+    "tipo": "ficha",
+    "nombre": "FT-Manvert-enraizante.pdf",
+    "url": "/uploads/FT-Manvert-enraizante.pdf"
+  },
+  {
+    "producto": "Manvert Boro",
+    "tipo": "ficha",
+    "nombre": "FT-Manvert-boro.pdf",
+    "url": "/uploads/FT-Manvert-boro.pdf"
+  },
+  {
+    "producto": "Manvert Cab Tracker",
+    "tipo": "ficha",
+    "nombre": "FT-Manvert-cab-tracker.pdf",
+    "url": "/uploads/FT-Manvert-cab-tracker.pdf"
+  },
+  {
+    "producto": "Manvert Biolet",
+    "tipo": "ficha",
+    "nombre": "FT-Manvert-biolet.pdf",
+    "url": "/uploads/FT-Manvert-biolet.pdf"
+  },
+  {
+    "producto": "Manvert Estimulante Plus",
+    "tipo": "ficha",
+    "nombre": "FT-Manvert-Estimulante-plus.pdf",
+    "url": "/uploads/FT-Manvert-Estimulante-plus.pdf"
+  },
+  {
+    "producto": "Acrobat MZ 69 WP",
+    "tipo": "panfleto",
+    "nombre": "Acrobat-MZ-69-WP.pdf",
+    "url": "/uploads/Acrobat-MZ-69-WP.pdf"
+  },
+  {
+    "producto": "BACSTAR 25 WG",
+    "tipo": "hoja",
+    "nombre": "MSDS-BACSTAR-25-WG.pdf",
+    "url": "/uploads/MSDS-BACSTAR-25-WG.pdf"
+  },
+  {
+    "producto": "Amylox 101.8 SC",
+    "tipo": "hoja",
+    "nombre": "MSDS-AmyloX.pdf",
+    "url": "/uploads/MSDS-AmyloX.pdf"
+  },
+  {
+    "producto": "Amylox 101.8 SC",
+    "tipo": "panfleto",
+    "nombre": "Panfleto-Amylox-101.8-SC.pdf",
+    "url": "/uploads/Panfleto-Amylox-101.8-SC.pdf"
+  },
+  {
+    "producto": "ENGEO 24.7 SC",
+    "tipo": "panfleto",
+    "nombre": "Panfleto-Engeo.pdf",
+    "url": "/uploads/Panfleto-Engeo.pdf"
+  },
+  {
+    "producto": "FUSILADE 12.5 EC",
+    "tipo": "panfleto",
+    "nombre": "Panfleto-Fusilade.pdf",
+    "url": "/uploads/Panfleto-Fusilade.pdf"
+  },
+  {
+    "producto": "Gesaprim 90 WG",
+    "tipo": "panfleto",
+    "nombre": "Panfleto-Gesaprim-90-WG.pdf",
+    "url": "/uploads/Panfleto-Gesaprim-90-WG.pdf"
+  },
+  {
+    "producto": "Pegasus 50 SC",
+    "tipo": "panfleto",
+    "nombre": "Panfleto-Pegasus.pdf",
+    "url": "/uploads/Panfleto-Pegasus.pdf"
+  },
+  {
+    "producto": "Tribel 48 EC",
+    "tipo": "panfleto",
+    "nombre": "Panfleto-Tribel.pdf",
+    "url": "/uploads/Panfleto-Tribel.pdf"
+  },
+  {
+    "producto": "Sunfire 24 SC",
+    "tipo": "panfleto",
+    "nombre": "Panfleto-Sunfire.pdf",
+    "url": "/uploads/Panfleto-Sunfire.pdf"
+  },
+  {
+    "producto": "Tronazell 60 WP",
+    "tipo": "panfleto",
+    "nombre": "Panfleto-Tronazell.pdf",
+    "url": "/uploads/Panfleto-Tronazell.pdf"
+  },
+  {
+    "producto": "Serifel 10 WP",
+    "tipo": "panfleto",
+    "nombre": "Panfleto-Serifel.pdf",
+    "url": "/uploads/Panfleto-Serifel.pdf"
+  },
+  {
+    "producto": "Acrozell 69 WP",
+    "tipo": "panfleto",
+    "nombre": "Panfleto-Acrozell.pdf",
+    "url": "/uploads/Panfleto-Acrozell.pdf"
+  },
+  {
+    "producto": "Eckosil",
+    "tipo": "panfleto",
+    "nombre": "FT-Eckosil.pdf",
+    "url": "/uploads/FT-Eckosil.pdf"
+  },
+  {
+    "producto": "GrapD Lim",
+    "tipo": "panfleto",
+    "nombre": "FT-GRAP-D-LIM.pdf",
+    "url": "/uploads/FT-GRAP-D-LIM.pdf"
+  },
+  {
+    "producto": "Grapsuper Gun",
+    "tipo": "panfleto",
+    "nombre": "FT-GRAP-SUPER-GUN.pdf",
+    "url": "/uploads/FT-GRAP-SUPER-GUN.pdf"
+  },
+  {
+    "producto": "Grapsuper Gun SR",
+    "tipo": "panfleto",
+    "nombre": "FT-GRAP-SUPER-GUN-SR.pdf",
+    "url": "/uploads/FT-GRAP-SUPER-GUN-SR.pdf"
+  },
+  {
+    "producto": "Oncol 10 GR",
+    "tipo": "panfleto",
+    "nombre": "Panfleto-Oncol-10-GR.pdf",
+    "url": "/uploads/Panfleto-Oncol-10-GR.pdf"
+  },
+  {
+    "producto": "Matric 5 SG",
+    "tipo": "panfleto",
+    "nombre": "Panfleto-Matric-5-SC.pdf",
+    "url": "/uploads/Panfleto-Matric-5-SC.pdf"
+  },
+  {
+    "producto": "Actellic 50 EC",
+    "tipo": "panfleto",
+    "nombre": "Panfleto-Actellic.pdf",
+    "url": "/uploads/Panfleto-Actellic.pdf"
+  },
+  {
+    "producto": "Imidazell 35 SC",
+    "tipo": "panfleto",
+    "nombre": "Panfleto-Imidazell.pdf",
+    "url": "/uploads/Panfleto-Imidazell.pdf"
+  },
+  {
+    "producto": "Limpiapotrero 30.4 SL",
+    "tipo": "panfleto",
+    "nombre": "Panfleto-Limpiapotreros.pdf",
+    "url": "/uploads/Panfleto-Limpiapotreros.pdf"
+  },
+  {
+    "producto": "Vertimec 1.8 EC",
+    "tipo": "panfleto",
+    "nombre": "Panfleto-Vertimec.pdf",
+    "url": "/uploads/Panfleto-Vertimec.pdf"
+  },
+  {
+    "producto": "Kumulus 80 WG",
+    "tipo": "panfleto",
+    "nombre": "Panfleto-Kumulus.pdf",
+    "url": "/uploads/Panfleto-Kumulus.pdf"
+  },
+  {
+    "producto": "Proclaim 5 SG",
+    "tipo": "panfleto",
+    "nombre": "Panfleto-Proclaim.pdf",
+    "url": "/uploads/Panfleto-Proclaim.pdf"
+  },
+  {
+    "producto": "Opera 18.3 SE",
+    "tipo": "panfleto",
+    "nombre": "Panfleto-Opera.pdf",
+    "url": "/uploads/Panfleto-Opera.pdf"
+  },
+  {
+    "producto": "Lambda Cihalotrina 2.5 EC",
+    "tipo": "panfleto",
+    "nombre": "Panfleto-Lambda-Cihalotrina.pdf",
+    "url": "/uploads/Panfleto-Lambda-Cihalotrina.pdf"
+  },
+  {
+    "producto": "Manvert Calcio 20.2%",
+    "tipo": "ficha",
+    "nombre": "FT-Manvert-calcio.pdf",
+    "url": "/uploads/FT-Manvert-calcio.pdf"
+  },
+  {
+    "producto": "Manvert Foliplus",
+    "tipo": "ficha",
+    "nombre": "FT-Manvert-foliplus.pdf",
+    "url": "/uploads/FT-Manvert-foliplus.pdf"
+  },
+  {
+    "producto": "Manvert Fosika",
+    "tipo": "ficha",
+    "nombre": "FT-Manvert-fosika.pdf",
+    "url": "/uploads/FT-Manvert-fosika.pdf"
+  },
+  {
+    "producto": "Manvert Hierro",
+    "tipo": "ficha",
+    "nombre": "FT-Manvert-hierro.pdf",
+    "url": "/uploads/FT-Manvert-hierro.pdf"
+  },
+  {
+    "producto": "Manvert Magnesio 10.8%",
+    "tipo": "ficha",
+    "nombre": "FT-Manvert-magnesio.pdf",
+    "url": "/uploads/FT-Manvert-magnesio.pdf"
+  },
+  {
+    "producto": "Manvert Miconic",
+    "tipo": "ficha",
+    "nombre": "FT-Manvert-miconic.pdf",
+    "url": "/uploads/FT-Manvert-miconic.pdf"
+  },
+  {
+    "producto": "Manvert Molibdeno Mix",
+    "tipo": "ficha",
+    "nombre": "FT-Manvert-molibdeno-mix.pdf",
+    "url": "/uploads/FT-Manvert-molibdeno-mix.pdf"
+  },
+  {
+    "producto": "Manvert Movili-Ca",
+    "tipo": "ficha",
+    "nombre": "FT-Manvert-movili-ca.pdf",
+    "url": "/uploads/FT-Manvert-movili-ca.pdf"
+  },
+  {
+    "producto": "Manvert Optim pH",
+    "tipo": "ficha",
+    "nombre": "FT-Manvert-optim-pH.pdf",
+    "url": "/uploads/FT-Manvert-optim-pH.pdf"
+  },
+  {
+    "producto": "Manvert Phytosoap",
+    "tipo": "ficha",
+    "nombre": "FT-Manvert-phytosoap.pdf",
+    "url": "/uploads/FT-Manvert-phytosoap.pdf"
+  },
+  {
+    "producto": "Manvert Potasio 39%",
+    "tipo": "ficha",
+    "nombre": "FT-Manvert-potasio.pdf",
+    "url": "/uploads/FT-Manvert-potasio.pdf"
+  },
+  {
+    "producto": "Manvert Silikon",
+    "tipo": "ficha",
+    "nombre": "FT-Manvert-silikon.pdf",
+    "url": "/uploads/FT-Manvert-silikon.pdf"
+  },
+  {
+    "producto": "Manvert Silargon Terra",
+    "tipo": "ficha",
+    "nombre": "FT-Manvert-silargon-terra.pdf",
+    "url": "/uploads/FT-Manvert-silargon-terra.pdf"
+  },
+  {
+    "producto": "Manvert Win-Ca",
+    "tipo": "ficha",
+    "nombre": "FT-Manvert-win-ca.pdf",
+    "url": "/uploads/FT-Manvert-win-ca.pdf"
+  },
+  {
+    "producto": "Manvert Zinc 9.6%",
+    "tipo": "ficha",
+    "nombre": "FT-Manvert-zinc.pdf",
+    "url": "/uploads/FT-Manvert-zinc.pdf"
+  },
+  {
+    "producto": "Orthocide 50 WP",
+    "tipo": "hoja",
+    "nombre": "MSDS-Orthocide-50-WP.pdf",
+    "url": "/uploads/MSDS-Orthocide-50-WP.pdf"
+  },
+  {
+    "producto": "Orthocide 50 WP",
+    "tipo": "panfleto",
+    "nombre": "Panfleto-Orthocide.pdf",
+    "url": "/uploads/Panfleto-Orthocide.pdf"
+  },
+  {
+    "producto": "Pyrazosulfozell 10 WP",
+    "tipo": "panfleto",
+    "nombre": "Panfleto-Pyrazosulfozell.pdf",
+    "url": "/uploads/Panfleto-Pyrazosulfozell.pdf"
+  },
+  {
+    "producto": "Manvert ZnB Tracker",
+    "tipo": "ficha",
+    "nombre": "FT-Manvert-znb-tracker.pdf",
+    "url": "/uploads/FT-Manvert-znb-tracker.pdf"
+  },
+  {
+    "producto": "Master Mix 70 WP",
+    "tipo": "panfleto",
+    "nombre": "Panfleto-Master-Mix-70-WP.pdf",
+    "url": "/uploads/Panfleto-Master-Mix-70-WP.pdf"
+  },
+  {
+    "producto": "Match 5 EC",
+    "tipo": "panfleto",
+    "nombre": "Panfleto-Match.pdf",
+    "url": "/uploads/Panfleto-Match.pdf"
+  },
+  {
+    "producto": "Mertect 50 SC",
+    "tipo": "panfleto",
+    "nombre": "Panfleto-Mertect.pdf",
+    "url": "/uploads/Panfleto-Mertect.pdf"
+  },
+  {
+    "producto": "Ridomil Gold MZ 68 WP",
+    "tipo": "panfleto",
+    "nombre": "Panfleto-Ridomil-Gold.pdf",
+    "url": "/uploads/Panfleto-Ridomil-Gold.pdf"
+  },
+  {
+    "producto": "Uniform 43.44 SE",
+    "tipo": "panfleto",
+    "nombre": "Panfleto-Uniform.pdf",
+    "url": "/uploads/Panfleto-Uniform.pdf"
+  },
+  {
+    "producto": "Validacin 5 SL",
+    "tipo": "panfleto",
+    "nombre": "Panfleto-Validacin.pdf",
+    "url": "/uploads/Panfleto-Validacin.pdf"
+  },
+  {
+    "producto": "Vaiplex 80 WP",
+    "tipo": "panfleto",
+    "nombre": "Panfleto-Vaiplex.pdf",
+    "url": "/uploads/Panfleto-Vaiplex.pdf"
+  },
+  {
+    "producto": "Mycoshell Tabs",
+    "tipo": "ficha",
+    "nombre": "FT-Mycoshell-Tabs.pdf",
+    "url": "/uploads/FT-Mycoshell-Tabs.pdf"
+  },
+  {
+    "producto": "Heat 70 WG",
+    "tipo": "panfleto",
+    "nombre": "Panfleto-Heat.pdf",
+    "url": "/uploads/Panfleto-Heat.pdf"
+  },
+  {
+    "producto": "Kelpak",
+    "tipo": "panfleto",
+    "nombre": "Panfleto-Kelpak.pdf",
+    "url": "/uploads/Panfleto-Kelpak.pdf"
+  },
+  {
+    "producto": "Kiplant Essence",
+    "tipo": "ficha",
+    "nombre": "FT-Kiplant-Essence.pdf",
+    "url": "/uploads/FT-Kiplant-Essence.pdf"
+  },
+  {
+    "producto": "Kiplant Allgrip",
+    "tipo": "ficha",
+    "nombre": "FT-Kiplant-Allgrip.pdf",
+    "url": "/uploads/FT-Kiplant-Allgrip.pdf"
+  },
+  {
+    "producto": "Kiplant VS-04",
+    "tipo": "ficha",
+    "nombre": "FT-Kiplant-VS-04.pdf",
+    "url": "/uploads/FT-Kiplant-VS-04.pdf"
+  },
+  {
+    "producto": "Arsenal 24 SL",
+    "tipo": "hoja",
+    "nombre": "MSDS-ARSENAL-24-SL.PDF",
+    "url": "/uploads/MSDS-ARSENAL-24-SL.PDF"
+  },
+  {
+    "producto": "Heat 70 WG",
+    "tipo": "hoja",
+    "nombre": "MSDS-HEAT.PDF",
+    "url": "/uploads/MSDS-HEAT.PDF"
+  },
+  {
+    "producto": "Lepicron 75 WP",
+    "tipo": "hoja",
+    "nombre": "MSDS-LEPICROM.pdf",
+    "url": "/uploads/MSDS-LEPICROM.pdf"
+  },
+  {
+    "producto": "Ingrain 20 SG",
+    "tipo": "ficha",
+    "nombre": "FT-Ingrain.pdf",
+    "url": "/uploads/FT-Ingrain.pdf"
+  },
+  {
+    "producto": "Ingrain 20 SG",
+    "tipo": "panfleto",
+    "nombre": "PANFLETO-INGRAIN-20-SG.pdf",
+    "url": "/uploads/PANFLETO-INGRAIN-20-SG.pdf"
+  },
+  {
+    "producto": "Razor 50 SC",
+    "tipo": "ficha",
+    "nombre": "FT-Razor-50-SC.pdf",
+    "url": "/uploads/FT-Razor-50-SC.pdf"
+  },
+  {
+    "producto": "Basta 15 SL",
+    "tipo": "panfleto",
+    "nombre": "Panfleto-Basta.pdf",
+    "url": "/uploads/Panfleto-Basta.pdf"
+  },
+  {
+    "producto": "Razor 50 SC",
+    "tipo": "hoja",
+    "nombre": "MSDS-RAZOR.pdf",
+    "url": "/uploads/MSDS-RAZOR.pdf"
+  },
+  {
+    "producto": "Bolero 96 EC",
+    "tipo": "hoja",
+    "nombre": "Agrocom-Kasugamycin-70-99-TC_etiqueta_vfinal.pdf",
+    "url": "https://iiuucaphtxmthn5r.public.blob.vercel-storage.com/Agrocom-Kasugamycin-70-99-TC_etiqueta_vfinal-ngyTdJC18totFqS6wgIV3376qXrpI2.pdf"
+  }
 ]
