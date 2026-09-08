@@ -1,0 +1,8 @@
+import { clearSessionCookie } from '../../lib/session.js';
+
+export default async function handler() {
+  return Response.json({ ok: true }, {
+    status: 200,
+    headers: { 'Set-Cookie': clearSessionCookie() }
+  });
+}

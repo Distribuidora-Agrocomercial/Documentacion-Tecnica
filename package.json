@@ -1,0 +1,19 @@
+{
+  "name": "dac-documentacion-tecnica",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Catálogo público de documentación técnica + panel de administración",
+  "scripts": {
+    "build": "esbuild js/admin-src.js --bundle --outfile=js/admin.bundle.js --format=iife --platform=browser --target=es2020"
+  },
+  "engines": {
+    "node": ">=20.0.0"
+  },
+  "dependencies": {
+    "@vercel/blob": "^2.8.0"
+  },
+  "devDependencies": {
+    "esbuild": "^0.28.2"
+  }
+}

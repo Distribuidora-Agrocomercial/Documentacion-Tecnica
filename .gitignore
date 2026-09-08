@@ -1,0 +1,7 @@
+node_modules/
+.vercel
+.env
+.env.local
+.env*.local
+js/admin.bundle.js
+js/admin.bundle.js.map
