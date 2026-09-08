@@ -428,6 +428,17 @@ body {
   color: #7a9a80;
 }
 
+.site-footer .admin-link {
+  color: #7a9a80;
+  text-decoration: none;
+  border-bottom: 1px solid transparent;
+}
+
+.site-footer .admin-link:hover {
+  color: var(--c-green);
+  border-bottom-color: var(--c-green);
+}
+
 /* ─── UTILS ───────────────────────────────────────────────── */
 .hidden { display: none !important; }
 
