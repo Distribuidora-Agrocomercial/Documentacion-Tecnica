@@ -1486,5 +1486,11 @@
     "tipo": "hoja",
     "nombre": "MSDS-RAZOR.pdf",
     "url": "/uploads/MSDS-RAZOR.pdf"
+  },
+  {
+    "producto": "DAC Glifosato 35,6 SL",
+    "tipo": "panfleto",
+    "nombre": "DAC-Glifosato-356-SL-Etiqueta--Panfleto-4671.pdf",
+    "url": "https://b1fwo5vnxenxpmwd.public.blob.vercel-storage.com/DAC-Glifosato-356-SL-Etiqueta--Panfleto-4671-IUFq9PI3kPRUrQn2Iov0JYXRomVdec.pdf"
   }
 ]
