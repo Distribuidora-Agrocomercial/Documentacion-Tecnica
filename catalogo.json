@@ -1492,5 +1492,11 @@
     "tipo": "panfleto",
     "nombre": "Panfleto-DAC-Glifosato-35.6-SL.pdf",
     "url": "https://b1fwo5vnxenxpmwd.public.blob.vercel-storage.com/Panfleto-DAC-Glifosato-35.6-SL-rqz8ebEsnTX3BePpP4phexui6JD0rl.pdf"
+  },
+  {
+    "producto": "DAC Acetoclor 90 EC",
+    "tipo": "hoja",
+    "nombre": "MSDS-DAC-ACETOCLOR-90-EC.pdf",
+    "url": "https://b1fwo5vnxenxpmwd.public.blob.vercel-storage.com/MSDS-DAC-ACETOCLOR-90-EC-rzZT0lIDnxOv9npBK9tTjiLEijALjl.pdf"
   }
 ]
