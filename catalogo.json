@@ -1492,5 +1492,11 @@
     "tipo": "hoja",
     "nombre": "MSDS-DAC-ACETOCLOR-90-EC.pdf",
     "url": "https://b1fwo5vnxenxpmwd.public.blob.vercel-storage.com/MSDS-DAC-ACETOCLOR-90-EC-rzZT0lIDnxOv9npBK9tTjiLEijALjl.pdf"
+  },
+  {
+    "producto": "DAC Acetoclor 90 EC",
+    "tipo": "panfleto",
+    "nombre": "Panfleto-DAC-Acetoclor-90-EC.pdf",
+    "url": "https://b1fwo5vnxenxpmwd.public.blob.vercel-storage.com/Panfleto-DAC-Acetoclor-90-EC-4dO6eKBRQwqoxN5hl8BjISUzRFcRJs.pdf"
   }
 ]
