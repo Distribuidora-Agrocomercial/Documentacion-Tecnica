@@ -1522,5 +1522,11 @@
     "tipo": "hoja",
     "nombre": "MSDS-Garrolite-50-EC.pdf",
     "url": "https://b1fwo5vnxenxpmwd.public.blob.vercel-storage.com/MSDS-Garrolite-50-EC-SC3RX0EsEJ2PIHIsTSlsoAUXS4WqOH.pdf"
+  },
+  {
+    "producto": "Garrolite 50 EC",
+    "tipo": "panfleto",
+    "nombre": "Panfleto-Garrolite-50-EC.pdf",
+    "url": "https://b1fwo5vnxenxpmwd.public.blob.vercel-storage.com/Panfleto-Garrolite-50-EC-3oFu61hoILUgIbXt1LwuNB18uzHfZl.pdf"
   }
 ]
