@@ -1510,5 +1510,11 @@
     "tipo": "hoja",
     "nombre": "MSDS-DAC-Malathion-4-DP.pdf",
     "url": "https://b1fwo5vnxenxpmwd.public.blob.vercel-storage.com/MSDS-DAC-Malathion-4-DP-p1qqCsI4oQ2MQ5Lho0X3uf9nx7Lxyj.pdf"
+  },
+  {
+    "producto": "DAC Malathion 4 DP",
+    "tipo": "panfleto",
+    "nombre": "Panfleto-DAC-Malathion-4-DP.pdf",
+    "url": "https://b1fwo5vnxenxpmwd.public.blob.vercel-storage.com/Panfleto-DAC-Malathion-4-DP-7dDkwx9quC9A0IP3Fpk7i2D8gC5Z0Q.pdf"
   }
 ]
